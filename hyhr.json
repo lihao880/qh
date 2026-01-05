@@ -213,15 +213,6 @@
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
-	{
-	  "key":"天天",
-	  "name":"🌀天天┃1920",
-	  "type":3,
-	  "api":"csp_TTian",
-	  "playerType":2,
-	  "ext":"7lj763gg0939791h1l3888jig44gi291li"
-	  "jar": "./lib/qj071.jar"
-	},
     {
       "key": "鲸鱼",
       "name": "🌀鲸鱼｜1920",
