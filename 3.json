@@ -65,7 +65,7 @@
     },
 	{
       "key": "多多",
-      "name": "多多｜3840",
+      "name": "❤多多｜3840",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -82,7 +82,7 @@
     },
     {
       "key": "欧哥",
-      "name": "欧哥｜3840",
+      "name": "❤欧哥｜3840",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -97,7 +97,7 @@
     },
     {
       "key": "雷鲸",
-      "name": "雷鲸｜3840",
+      "name": "❤雷鲸｜3840",
       "type": 3,
       "api": "csp_PanWebShareCloudLJ",
       "searchable": 1,
@@ -144,7 +144,7 @@
     },
     {
       "key": "py_3840AV",
-      "name": "❤HDR┃3840限时",
+      "name": "❤HDR┃3840",
       "type": 3,
       "quickSearch": 1,
       "searchable": 1,
@@ -153,7 +153,7 @@
     },
 	{
       "key": "糖果",
-      "name": "糖果｜3840搜索",
+      "name": "❤糖果｜3840",
       "type": 3,
       "api": "csp_TGSou",
       "searchable": 1,
@@ -277,7 +277,7 @@
     },
 	{
       "key": "三六零",
-      "name": "三六｜解析",
+      "name": "🌀三六｜解析",
       "type": 3,
       "api": "csp_SP360"
     },
@@ -295,7 +295,7 @@
     },
     {
       "key": "金牌",
-      "name": "金牌┃1920",
+      "name": "🌀金牌┃1920",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -308,7 +308,7 @@
     },
     {
       "key": "顾我",
-      "name": "顾我｜1920",
+      "name": "🌀顾我｜1920",
       "type": 3,
       "api": "csp_AppQi",
       "changeable": "1",
@@ -323,7 +323,7 @@
     },
     {
       "key": "冷心",
-      "name": "冷心｜1920",
+      "name": "🌀冷心｜1920",
       "type": 3,
       "api": "csp_AppGet",
       "ext": {
@@ -334,7 +334,7 @@
     },
     {
       "key": "茉莉",
-      "name": "茉莉｜1920",
+      "name": "🌀茉莉｜1920",
       "type": 3,
       "searchable": 1,
       "api": "csp_AppGet",
@@ -346,7 +346,7 @@
     },
     {
       "key": "火锅",
-      "name": "火锅｜1920",
+      "name": "🌀火锅｜1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -358,7 +358,7 @@
     },
     {
       "key": "八天",
-      "name": "八天丨1920",
+      "name": "🌀八天丨1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -369,7 +369,7 @@
       }
     },
     {
-      "key": "稀饭",
+      "key": "🌀稀饭",
       "name": "稀饭丨1920",
       "type": 3,
       "quickSearch": 1,
@@ -382,7 +382,7 @@
     },
     {
       "key": "五八",
-      "name": "五八丨1920",
+      "name": "🌀五八丨1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -394,7 +394,7 @@
     },
     {
       "key": "驿站",
-      "name": "驿站丨1920",
+      "name": "🌀驿站丨1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -406,7 +406,7 @@
     },
     {
       "key": "灵虎",
-      "name": "灵虎｜1920",
+      "name": "🌀灵虎｜1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -419,7 +419,7 @@
     },
     {
       "key": "旗星",
-      "name": "旗星｜1920",
+      "name": "🌀旗星｜1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -429,6 +429,67 @@
         "dataIv": "2SWSPFxugBLPPOKo",
         "version": "120"
       }
+    },
+	{
+      "key": "荐片",
+      "name": "荐片｜磁力",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "ext": "https://ev5356.970xw.com"
+    },
+    {
+      "key": "修罗",
+      "name": "修罗｜磁力",
+      "api": "csp_Xlys",
+      "type": 3,
+      "ext": "https://xl01.com.de"
+    },
+    {
+      "key": "80S",
+      "name": "80S｜磁力",
+      "type": 3,
+      "api": "csp_BLSGod",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "电影港",
+      "name": "电影港｜磁力",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/电影港.json"
+    },
+    {
+      "key": "Mp4电影",
+      "name": "Mp4电影｜磁力",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "美剧天堂",
+      "name": "美剧天堂｜磁力",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "电影天堂",
+      "name": "电影天堂｜磁力",
+      "type": 3,
+      "api": "csp_DyGod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "丫丫",
@@ -573,67 +634,6 @@
         "dataKey": "GETMIFUNGEIMIFUN",
         "dataIv": "GETMIFUNGEIMIFUN"
       }
-    },
-    {
-      "key": "荐片",
-      "name": "荐片｜磁力",
-      "api": "csp_Jianpian",
-      "type": 3,
-      "ext": "https://ev5356.970xw.com"
-    },
-    {
-      "key": "修罗",
-      "name": "修罗｜磁力",
-      "api": "csp_Xlys",
-      "type": 3,
-      "ext": "https://xl01.com.de"
-    },
-    {
-      "key": "80S",
-      "name": "80S｜磁力",
-      "type": 3,
-      "api": "csp_BLSGod",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "电影港",
-      "name": "电影港｜磁力",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/电影港.json"
-    },
-    {
-      "key": "Mp4电影",
-      "name": "Mp4电影｜磁力",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "美剧天堂",
-      "name": "美剧天堂｜磁力",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "电影天堂",
-      "name": "电影天堂｜磁力",
-      "type": 3,
-      "api": "csp_DyGod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "88看球",
