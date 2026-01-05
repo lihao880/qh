@@ -449,56 +449,15 @@
       "type": 3,
       "api": "csp_SP360"
     },
-	 {
-      "key": "KD音乐仓",
-      "name": "KD音乐台",
-      "type": 3,
-      "jar": "./lib/dg.jar",
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./lib/dg.json"
-    },
-    {
-      "key": "星芽短剧",
-      "name": "🔹星芽｜短剧",
-      "type": 3,
-      "api": "./lib/apiv3191星芽短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "甜圈短剧",
-      "name": "🔹甜圈｜短剧",
-      "type": 3,
-      "api": "./lib/apiv3213甜圈短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "剧王短剧",
-      "name": "🔹剧王｜短剧",
-      "type": 3,
-      "api": "./lib/apiv3235剧王短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
     {
       "key": "奇优影视",
-      "name": "🔹奇优｜影视",
+      "name": "🔹奇优｜有广",
       "type": 3,
       "api": "csp_Qiyou"
     },
     {
       "key": "瓜子影视",
-      "name": "🔹瓜子｜影视",
+      "name": "🔹瓜子｜1920",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -563,6 +522,36 @@
       "type": 3,
       "api": "csp_DyGod",
       "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	{
+      "key": "星芽短剧",
+      "name": "🔹星芽｜短剧",
+      "type": 3,
+      "api": "./lib/apiv3191星芽短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "🔹甜圈｜短剧",
+      "type": 3,
+      "api": "./lib/apiv3213甜圈短剧.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "剧王短剧",
+      "name": "🔹剧王｜短剧",
+      "type": 3,
+      "api": "./lib/apiv3235剧王短剧.py",
+      "searchable": 1,
+      "changeable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
