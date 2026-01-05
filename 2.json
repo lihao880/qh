@@ -36,19 +36,6 @@
       }
     },
     {
-      "key": "至臻",
-      "name": "❤至臻｜4K测试",
-      "type": 3,
-      "api": "csp_ZhiZhenGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/uc.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
       "key": "蜡笔",
       "name": "❤蜡笔｜4K测试",
       "type": 3,
@@ -62,75 +49,18 @@
       "jar": "./lib/ok.jar"
     },
     {
-      "key": "双星",
-      "name": "❤双星｜4K测试",
-      "type": 3,
-      "api": "csp_Star2Guard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
       "key": "虎斑",
-      "name": "❤虎斑｜4K测试",
+      "name": "❤虎斑｜3840",
       "type": 3,
-      "api": "csp_HuBanGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/uc.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
-      "key": "小飒",
-      "name": "❤小飒｜4K测试",
-      "type": 3,
-      "api": "csp_XsayangGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/uc.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
-      "key": "SeedHub",
-      "name": "❤种子｜4K测试",
-      "type": 3,
-      "api": "csp_SeedHubGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/uc.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
-      "key": "hohaiemby",
-      "name": "❤emby｜4K测试",
-      "type": 3,
-      "api": "https://pan.aa53.cn/down.php/87d2c7a1a820138e1eddd50ffa71bab5.py&988984",
+      "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "server": "https://emby.hohai.eu.org:443",
-        "username": "chuxin666",
-        "password": "ycc123456",
-        "proxy": "",
-        "thread": 0,
-        "device_name": "MyComputer",
-        "client": "HillsWindows",
-        "client_version": "0.3.2",
-        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
+        "site": [
+          "http://103.45.162.207:20720"
+        ]
       }
     },
     {
@@ -201,7 +131,7 @@
       "name": "🌀巧技｜4K线路",
       "type": 3,
       "api": "csp_qiao2",
-      "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707",
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9",
       "jar": "./lib/qj071.jar"
     },
     {
