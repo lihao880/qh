@@ -35,9 +35,24 @@
         "ratio": 1.597
       }
     },
+	{
+      "key": "虎斑",
+      "name": "❤虎斑｜3840",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://103.45.162.207:20720"
+        ]
+      }
+    },
     {
       "key": "蜡笔",
-      "name": "❤蜡笔｜4K测试",
+      "name": "❤蜡笔｜3840",
       "type": 3,
       "api": "csp_LabiGuard",
       "changeable": 0,
@@ -50,7 +65,7 @@
     },
 	{
       "key": "多多",
-      "name": "多多｜4K",
+      "name": "多多｜3840",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -67,7 +82,7 @@
     },
     {
       "key": "欧哥",
-      "name": "欧哥｜4K",
+      "name": "欧哥｜3840",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -82,7 +97,7 @@
     },
     {
       "key": "雷鲸",
-      "name": "雷鲸｜4K",
+      "name": "雷鲸｜3840",
       "type": 3,
       "api": "csp_PanWebShareCloudLJ",
       "searchable": 1,
@@ -97,7 +112,7 @@
     },
     {
       "key": "窈窕",
-      "name": "❤窈窕｜4K虎斑",
+      "name": "❤窈窕｜3840",
       "type": 3,
       "jar": "./lib/custom_spider.jar",
       "api": "csp_HBT4",
@@ -105,7 +120,7 @@
     },
     {
       "key": "淑女",
-      "name": "❤淑女｜4K虎斑",
+      "name": "❤淑女｜3840",
       "type": 3,
       "jar": "./lib/custom_spider.jar",
       "api": "csp_HBT4",
@@ -113,7 +128,7 @@
     },
     {
       "key": "君子",
-      "name": "❤君子｜4K虎斑",
+      "name": "❤君子｜3840",
       "type": 3,
       "api": "csp_HBT4",
       "jar": "./lib/custom_spider.jar",
@@ -121,24 +136,24 @@
     },
     {
       "key": "好逑",
-      "name": "❤好逑｜4K虎斑",
+      "name": "❤好逑｜3840",
       "type": 3,
       "api": "csp_HBT4",
       "jar": "./lib/custom_spider.jar",
       "ext": "http://154.219.113.13:4866/test.php?site=ouge###ouge"
     },
     {
-      "key": "py_4KAV",
-      "name": "❤HDR┃4K限时",
+      "key": "py_3840AV",
+      "name": "❤HDR┃3840限时",
       "type": 3,
       "quickSearch": 1,
       "searchable": 1,
       "filterable": 1,
-      "api": "./lib/apiv8474KAV.py"
+      "api": "./lib/apiv8473840AV.py"
     },
 	{
       "key": "糖果",
-      "name": "糖果｜搜索",
+      "name": "糖果｜3840搜索",
       "type": 3,
       "api": "csp_TGSou",
       "searchable": 1,
@@ -147,16 +162,24 @@
     },
     {
       "key": "还行",
-      "name": "🌀还行｜4K测试",
+      "name": "🌀主01｜1920",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },
+	{
+      "key": "巧技",
+      "name": "🌀主02｜1920",
+      "type": 3,
+      "api": "csp_qiao2",
+      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9",
+      "jar": "./lib/qj071.jar"
+    },
     {
       "key": "云云",
-      "name": "🌀云云丨4K线路",
+      "name": "🌀云云丨1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppQi",
@@ -167,14 +190,7 @@
         "version": "120"
       }
     },
-    {
-      "key": "巧技",
-      "name": "🌀巧技｜19920",
-      "type": 3,
-      "api": "csp_qiao2",
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9",
-      "jar": "./lib/qj071.jar"
-    },
+    
     {
       "key": "金牌影视",
       "name": "🌀金牌｜1920",
@@ -246,22 +262,28 @@
     },
 	 {
       "key": "奇优影视",
-      "name": "奇优｜影视",
+      "name": "🌀奇优｜有广",
       "type": 3,
       "api": "csp_Qiyou"
     },
     {
       "key": "瓜子影视",
-      "name": "瓜子｜影视",
+      "name": "🌀瓜子｜1920",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+	{
+      "key": "三六零",
+      "name": "三六｜解析",
+      "type": 3,
+      "api": "csp_SP360"
+    },
     {
       "key": "热播影视",
-      "name": "热播｜APP",
+      "name": "🌀热播｜1920",
       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
@@ -273,7 +295,7 @@
     },
     {
       "key": "金牌",
-      "name": "金牌┃APP",
+      "name": "金牌┃1920",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -286,7 +308,7 @@
     },
     {
       "key": "顾我",
-      "name": "顾我｜APP",
+      "name": "顾我｜1920",
       "type": 3,
       "api": "csp_AppQi",
       "changeable": "1",
@@ -301,7 +323,7 @@
     },
     {
       "key": "冷心",
-      "name": "冷心｜APP",
+      "name": "冷心｜1920",
       "type": 3,
       "api": "csp_AppGet",
       "ext": {
@@ -312,7 +334,7 @@
     },
     {
       "key": "茉莉",
-      "name": "茉莉｜APP",
+      "name": "茉莉｜1920",
       "type": 3,
       "searchable": 1,
       "api": "csp_AppGet",
@@ -324,7 +346,7 @@
     },
     {
       "key": "火锅",
-      "name": "火锅｜APP",
+      "name": "火锅｜1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -336,7 +358,7 @@
     },
     {
       "key": "八天",
-      "name": "八天丨APP",
+      "name": "八天丨1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -348,7 +370,7 @@
     },
     {
       "key": "稀饭",
-      "name": "稀饭丨APP",
+      "name": "稀饭丨1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -360,7 +382,7 @@
     },
     {
       "key": "五八",
-      "name": "五八丨APP",
+      "name": "五八丨1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -372,7 +394,7 @@
     },
     {
       "key": "驿站",
-      "name": "驿站丨APP",
+      "name": "驿站丨1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -384,7 +406,7 @@
     },
     {
       "key": "灵虎",
-      "name": "灵虎｜APP",
+      "name": "灵虎｜1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -397,7 +419,7 @@
     },
     {
       "key": "旗星",
-      "name": "旗星｜APP",
+      "name": "旗星｜1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -410,7 +432,7 @@
     },
     {
       "key": "丫丫",
-      "name": "丫丫｜APP",
+      "name": "丫丫｜动漫",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -437,12 +459,6 @@
         "json": "./lib/哔哩视频.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
       }
-    },
-    {
-      "key": "三六零",
-      "name": "三六零｜视频",
-      "type": 3,
-      "api": "csp_SP360"
     },
     {
       "key": "星芽短剧",
