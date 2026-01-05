@@ -36,101 +36,35 @@
       }
     },
     {
-      "key": "至臻",
-      "name": "❤至臻｜4K测试",
-      "type": 3,
-      "api": "csp_ZhiZhenGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/uc.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
       "key": "蜡笔",
       "name": "❤蜡笔｜4K测试",
-      "type": 3,
-      "api": "csp_LabiGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/uc.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
-      "key": "双星",
-      "name": "❤双星｜4K测试",
-      "type": 3,
-      "api": "csp_Star2Guard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
-      "key": "虎斑",
-      "name": "❤虎斑｜4K测试",
-      "type": 3,
-      "api": "csp_HuBanGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/uc.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
-      "key": "小飒",
-      "name": "❤小飒｜4K测试",
-      "type": 3,
-      "api": "csp_XsayangGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/uc.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
-      "key": "SeedHub",
-      "name": "❤种子｜4K测试",
-      "type": 3,
-      "api": "csp_SeedHubGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/qk.js",
-        "uc_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/uc.js",
-        "baidu_cookie": "https://gitee.com/cpu-iy/iy/raw/master/jars/bd.js"
-      },
-      "jar": "./lib/ok.jar"
-    },
-    {
-      "key": "hohaiemby",
-      "name": "❤emby｜4K测试",
-      "type": 3,
-      "api": "https://pan.aa53.cn/down.php/87d2c7a1a820138e1eddd50ffa71bab5.py&988984",
+        "type": 3,
+      "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": {
-        "server": "https://emby.hohai.eu.org:443",
-        "username": "chuxin666",
-        "password": "ycc123456",
-        "proxy": "",
-        "thread": 0,
-        "device_name": "MyComputer",
-        "client": "HillsWindows",
-        "client_version": "0.3.2",
-        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
+        "site": [
+          "https://www.labi88.sbs",
+          "https://feimao666.fun",
+          "http://feimao888.fun"
+        ]
+      }
+    },
+    {
+      "key": "虎斑",
+      "name": "❤虎斑｜4K测试",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://103.45.162.207:20720"
+        ]
       }
     },
     {
