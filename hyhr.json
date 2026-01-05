@@ -199,14 +199,6 @@
       "ext": "http://m51.gotto.top/api.php/v1.vod"
     },
     {
-      "key": "巧技",
-      "name": "☀主2｜1920",
-      "type": 3,
-      "api": "csp_qiao2",
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9",
-      "jar": "./lib/qj071.jar"
-    },
-    {
       "key": "金牌影视",
       "name": "🌀金牌｜1920",
       "type": 3,
@@ -947,7 +939,7 @@
       }
     },
     {
-      "name": "公众号：六趣",
+      "name": "公众号：机缘巧盒凯弟",
       "type": 1,
       "url": "http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url=",
       "ext": {
