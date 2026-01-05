@@ -108,16 +108,7 @@
       "filterable": 1,
       "api": "./lib/apiv8474KAV.py"
     },
-    {
-      "key": "还行",
-      "name": "🌀还行｜4K测试",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },
-    {
+     {
       "key": "云云",
       "name": "🌀云云丨4K线路",
       "type": 3,
@@ -129,6 +120,15 @@
         "dataIv": "staraugust123456",
         "version": "120"
       }
+    },
+    {
+      "key": "还行",
+      "name": "🌀还行｜4K测试",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://m51.gotto.top/api.php/v1.vod"
     },
     {
       "key": "巧技",
