@@ -14,20 +14,7 @@
       "timeout": 10
     }
   ],
-  "sites": [{
-               "api" : "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
-                        "ext" : "http://49.232.165.72:1234/js/qq.js",
-                                 "key" : "ttys",
-                                          "name" : "🔥机缘巧盒 3980",
-                                                   "type" : 3
-  },
-        {
-                     "api" : "https://gitee.com/yuyu10588/tt/raw/t/t/drpy2.min.js",
-                              "ext" : "http://47.108.190.232:666/lib/2.js",
-                                       "key" : "机哥剧圈",
-                                                "name" : "🔥机缘巧盒 备用3980",
-                                                         "type" : 3
-        },
+  "sites": [
     {
       "key": "豆瓣",
       "name": "欢迎使用>>>机缘巧盒",
