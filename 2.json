@@ -2,7 +2,6 @@
   "spider": "./spider.jar",
   "wallpaper": "https://wp.upx8.com/api.php",
   "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
-  "notice": "欢迎使用机缘巧盒",
   "warningText": "tv提示:
 📢机缘巧盒机顶盒专用 
 📢终身免费长期维护
@@ -37,8 +36,8 @@
       }
     },
     {
-       "api" : "https://gitee.com/li-shengkai/jiaoyu-xiqu/raw/master/js/drpy2.min.js",
-       "ext" : "https://gitee.com/li-shengkai/jiaoyu-xiqu/raw/master/js/%E6%96%B0%E7%9C%9F4ktx.js",
+       "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
+       "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js",
        "key" : "爱腾讯",
        "name" : "❤腾讯｜3840",
        "type" : 3
@@ -63,170 +62,9 @@
          "key" : "优酷视频",
          "name" : "❤优酷｜3840",
          "type" : 3
-      }, {
-      "key": "新腾极4k",
-      "name": "九灵｜腾讯｜4K",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "./lib/新真4ktx.js"
-    },
-    {
-      "key": "芒果弹幕",
-      "name": "九灵｜芒果｜4K",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/新真mg4k.js"
-    },
-    {
-      "key": "腾讯视频",
-      "name": "九灵丨腾讯｜4K",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾讯视频.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "九灵丨芒果｜4K",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/芒果视频.js"
-    },
-    {
-      "key": "腾讯视频",
-      "name": "备用丨腾讯｜4K",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/4ktx.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "备用丨芒果｜4K",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/mg4k.js"
-    },
-    {
-      "key": "奇艺视频",
-      "name": "九灵｜奇艺｜2K",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱奇艺视频.js"
-    },
-    {
-      "key": "优酷视频",
-      "name": "九灵｜优酷｜2K",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷视频.js"
-    },
-    {
-      "key": "瓜子影视",
-      "name": "九灵｜瓜子｜蓝光",
-      "type": 3,
-      "api": "csp_Gz360",
-      "jar": "./lib/xf.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "玩偶",
-      "name": "九灵｜免扫4k｜极臻",
-      "type": 3,
-      "api": "csp_WoggGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "./lib/fur3ck.js",
-        "uc_cookie": "./lib/uc.js",
-        "baidu_cookie": "./lib/bd.txt"
       },
-      "jar": "./lib/yunok.jar"
-    },
-    {
-      "key": "至臻",
-      "name": "九灵｜免扫4k｜至臻",
-      "type": 3,
-      "api": "csp_ZhiZhenGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "./lib/fur3ck.js",
-        "uc_cookie": "./uc.png",
-        "baidu_cookie": "./lib/bd.txt"
-      },
-      "jar": "./lib/yunok.jar"
-    },
-    {
-      "key": "蜡笔",
-      "name": "九灵｜免扫4k｜云影",
-      "type": 3,
-      "api": "csp_LabiGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "./lib/fur3ck.js",
-        "uc_cookie": "./lib/uc.js",
-        "baidu_cookie": "./lib/bd.txt"
-      },
-      "jar": "./lib/yunok.jar"
-    },
-    {
-      "key": "移动",
-      "name": "九灵｜免扫4k｜移动",
-      "type": 3,
-      "jar": "./lib/yunY.jar",
-      "api": "csp_YDjisu",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "央库云",
-      "name": "九灵｜央视｜云聚",
-      "type": 3,
-      "api": "./lib/央库云.py",
-      "jar": "./lib/xif.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "EMBY",
-      "name": "九灵｜鸭子｜4K",
-      "type": 3,
-      "api": "./lib/九灵.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "server": "https://emby.bangumi.ca:443",
-        "username": "tangsan",
-        "password": "tangsan",
-        "proxy": "",
-        "thread": 0,
-        "device_name": "My Computer",
-        "client": "Hills Windows",
-        "client_version": "0.3.2",
-        "device_id": "a9f74849-83d5-4a28-8b85-a087af1402e3"
-      }
-    },
-    {
-      "key": "人人影视",
-      "name": "九灵｜影视｜4K",
-      "type": 3,
-      "api": "./lib/人人影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
 	{
-      "key": "虎斑",
+      "key": "虎*斑",
       "name": "❤虎斑｜3840",
       "type": 3,
       "api": "csp_PanWebShare",
@@ -241,7 +79,7 @@
       }
     },
     {
-      "key": "蜡笔",
+      "key": "蜡*笔",
       "name": "❤蜡笔｜3840",
       "type": 3,
       "api": "csp_LabiGuard",
@@ -254,7 +92,7 @@
       "jar": "./lib/ok.jar"
     },
 	{
-      "key": "多多",
+      "key": "多*多",
       "name": "❤多多｜3840",
       "type": 3,
       "api": "csp_PanWebShare",
@@ -271,7 +109,7 @@
       }
     },
     {
-      "key": "欧哥",
+      "key": "欧*哥",
       "name": "❤欧哥｜3840",
       "type": 3,
       "api": "csp_PanWebShare",
@@ -286,7 +124,46 @@
       }
     },
     {
-      "key": "雷鲸",
+      "key": "玩偶",
+      "name": "❤免扫4k｜极臻",
+      "type": 3,
+      "api": "csp_WoggGuard",
+      "changeable": 0,
+      "ext": {
+        "cookie": "./lib/fur3ck.js",
+        "uc_cookie": "./lib/uc.js",
+        "baidu_cookie": "./lib/bd.txt"
+      },
+      "jar": "./lib/yunok.jar"
+    },
+    {
+      "key": "至臻",
+      "name": "❤免扫4k｜至臻",
+      "type": 3,
+      "api": "csp_ZhiZhenGuard",
+      "changeable": 0,
+      "ext": {
+        "cookie": "./lib/fur3ck.js",
+        "uc_cookie": "./uc.png",
+        "baidu_cookie": "./lib/bd.txt"
+      },
+      "jar": "./lib/yunok.jar"
+    },
+    {
+      "key": "蜡笔",
+      "name": "❤免扫4k｜云影",
+      "type": 3,
+      "api": "csp_LabiGuard",
+      "changeable": 0,
+      "ext": {
+        "cookie": "./lib/fur3ck.js",
+        "uc_cookie": "./lib/uc.js",
+        "baidu_cookie": "./lib/bd.txt"
+      },
+      "jar": "./lib/yunok.jar"
+    },
+    {
+      "key": "雷*鲸",
       "name": "❤雷鲸｜3840",
       "type": 3,
       "api": "csp_PanWebShareCloudLJ",
