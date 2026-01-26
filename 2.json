@@ -150,19 +150,6 @@
       "jar": "./lib/yunok.jar"
     },
     {
-      "key": "蜡笔",
-      "name": "❤免扫4k｜云影",
-      "type": 3,
-      "api": "csp_LabiGuard",
-      "changeable": 0,
-      "ext": {
-        "cookie": "./lib/fur3ck.js",
-        "uc_cookie": "./lib/uc.js",
-        "baidu_cookie": "./lib/bd.txt"
-      },
-      "jar": "./lib/yunok.jar"
-    },
-    {
       "key": "雷*鲸",
       "name": "❤雷鲸｜3840",
       "type": 3,
