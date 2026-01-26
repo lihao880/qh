@@ -37,8 +37,8 @@
       }
     },
     {
-       "api" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js",
-       "ext" : "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/腾讯视频.js",
+       "api" : "https://gitee.com/li-shengkai/jiaoyu-xiqu/raw/master/js/drpy2.min.js",
+       "ext" : "https://gitee.com/li-shengkai/jiaoyu-xiqu/raw/master/js/%E6%96%B0%E7%9C%9F4ktx.js",
        "key" : "爱腾讯",
        "name" : "❤腾讯｜3840",
        "type" : 3
