@@ -26,7 +26,8 @@
       "style": {
         "type": "rect",
         "ratio": 1.597
-      }
+      },
+      "jar": "./spider.jar"
     },
     {
       "key": "本地播放",
