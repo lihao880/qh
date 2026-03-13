@@ -163,38 +163,6 @@
       "timeout": 25
     },
     {
-      "key": "小飒弹幕",
-      "name": "小飒┃3840",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Xsayang",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
-      "key": "双星",
-      "name": "双星┃3840",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "sp": "Star2",
-        "danmu": true
-      },
-      "timeout": 25
-    },
-    {
       "key": "二小弹幕",
       "name": "二小┃3840",
       "type": 3,
@@ -282,6 +250,16 @@
         "danmu": true
       },
       "timeout": 25
+    },
+    {
+      "key": "糖果",
+      "name": "❤糖果｜3840",
+      "type": 3,
+      "api": "csp_TGSou",
+      "jar": "./spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "SeedHub弹幕",
