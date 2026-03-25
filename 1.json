@@ -78,7 +78,7 @@
     },
       {
       "key": "3QQQ",
-      "name": "❤主4┃3840",
+      "name": "❤主04┃3840",
       "type": 3,
       "timeout": 15,
       "api": "csp_App3Q",
@@ -86,7 +86,7 @@
     },
      {
       "key": "JINPAI",
-      "name": "❤主5┃3840",
+      "name": "❤主05┃3840",
       "type": 3,
       "api": "csp_AppGet",
       "changeable": "1",
@@ -97,7 +97,7 @@
     },
       {
       "key": "csp_XBPQ",
-      "name": "❤主6┃3840",
+      "name": "❤主06┃3840",
       "type": 3,
       "api": "csp_XBPQ",
       "timeout": 12,
