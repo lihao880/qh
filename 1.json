@@ -45,73 +45,44 @@
         "sp": "Local"
       }
     },
-    {
-      "key": "csp_Wwys",
-      "name": "🌀主┃1920",
-      "type": 3,
-      "api": "csp_Wwys",
-      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef",
-      "ext": "https://vip.wwgz.cn:5200"
-    },
      {
       "key": "爱营盈盈",
-      "name": "❤主┃3840",
+      "name": "❤主01┃3840",
       "type": 3,
       "api": "csp_AppGet",
       "changeable": "1",
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q20.txt|ada211sdfsff3261|122",
-      "jar": "https://img2.gelonghui.com/library/959e6-f0a23ae5-25df-4079-8a35-00fd433101cc.png;md5;959e6f78c90fcfbf9309f05b226891c0"
+      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
+    },
+       {
+      "key": "顾我",
+      "name": "❤主02┃3840",
+      "type": 3,
+      "api": "csp_AppGet",
+      "changeable": "1",
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://xkos1.xkgzs.xyz|77jkcdvdodfcdkjk",
+      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
     },
      {
-      "key": "糯米",
-      "name": "🌀主1┃1920",
+      "key": "仓鼠APP",
+      "name": "❤主03┃3840",
       "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Nmys",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-     {
-      "key": "热播弹幕版",
-      "name": "🌀主2┃1920",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "TianTian",
-        "danmu": true,
-        "site": 0
-      },
-      "timeout": 10
+      "timeout": 15,
+      "api": "csp_AppGet",
+      "ext": "https://qjappcms410.xy4k.com|mC6kG4mI1uM8tS4o|122",
+      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
     },
       {
-      "key": "还行",
-      "name": "🌀主3┃1920",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./spider.jar",
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },
-     {
       "key": "3QQQ",
       "name": "❤主4┃3840",
       "type": 3,
       "timeout": 15,
       "api": "csp_App3Q",
-      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
+      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
     },
      {
       "key": "JINPAI",
@@ -132,6 +103,121 @@
       "timeout": 12,
       "jar": "https://img2.gelonghui.com/library/1fdce-37f3cc0f-eca7-4efa-ad79-b86d68bde3b5.jpg;md5;1fdce64a3b67359e8f6f9ea64a3326f5",
       "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
+    },
+    {
+      "key": "奇奇弹幕版",
+      "name": "❤主07┃3840",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "QiQi",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "段友",
+      "name": "❤主08┃3840",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://shangjihuoke.com|8E2DC386FD452D05",
+      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
+    },
+    {
+      "key": "csp_Wwys",
+      "name": "🌀主1┃1920",
+      "type": 3,
+      "api": "csp_Wwys",
+      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966",
+      "ext": "https://vip.wwgz.cn:5200"
+    },
+     {
+      "key": "糯米",
+      "name": "🌀主2┃1920",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Nmys",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+     {
+      "key": "热播弹幕版",
+      "name": "🌀主3┃1920",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "TianTian",
+        "danmu": true,
+        "site": 0
+      },
+      "timeout": 10
+    },
+      {
+      "key": "还行",
+      "name": "🌀主4┃1920",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "./spider.jar",
+      "ext": "http://m51.gotto.top/api.php/v1.vod"
+    },
+     {
+      "key": "雄鹰弹幕版",
+      "name": "🌀主5┃1920",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "XiongYing",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "热播影视",
+      "name": "🌀热播｜1920",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./spider.jar",
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key": "数字",
+      "name": "🌀数字｜1920",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "./spider.jar",
+      "ext": {
+        "url": "http://app1-0-0.87333.cc",
+        "dataKey": "VwsHxkCViDXEExWa",
+        "dataIv": "VwsHxkCViDXEExWa"
+      }
     },
     {
       "key": "玩偶弹幕版",
@@ -374,32 +460,6 @@
       "timeout": 25
     },
      {
-      "key": "热播影视",
-      "name": "🌀热播｜1920",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./spider.jar",
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
-      "key": "数字",
-      "name": "🌀数字｜1920",
-      "type": 3,
-      "quickSearch": 1,
-      "api": "csp_AppGet",
-      "jar": "./spider.jar",
-      "ext": {
-        "url": "http://app1-0-0.87333.cc",
-        "dataKey": "VwsHxkCViDXEExWa",
-        "dataIv": "VwsHxkCViDXEExWa"
-      }
-    },
-     {
       "key": "tt",
       "name": "🌀玉玉┃1920",
       "type": 3,
@@ -408,17 +468,6 @@
       "filterable": 1,
       "changeable": 1,
       "ext": "./lib/tx.js"
-    },
-    {
-      "key": "顾我",
-      "name": "🌀顾顾┃1920",
-      "type": 3,
-      "api": "csp_AppGet",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://117.50.204.35:520|ca94b06ca3c7d80e|122",
-      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
     },
     {
       "key": "秒看",
@@ -449,32 +498,6 @@
       "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
     },
     {
-      "key": "巧技2",
-      "name": "🌀巧技┃1920",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "jar": "https://cik07-cos.7moor-fs2.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/6a1bc5995387e053/qij.png;md5;eb1ed5578b0a9ac5f3e6c6ee04b813e6",
-      "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"
-    },
-    {
-      "key": "奇奇弹幕版",
-      "name": "🌀奇奇┃1920",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "QiQi",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "紫金弹幕版",
       "name": "🌀紫金┃1920",
       "type": 3,
@@ -501,21 +524,6 @@
       "filterable": 1,
       "ext": {
         "sp": "Duboku",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "雄鹰弹幕版",
-      "name": "🌀雄鹰┃1920",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "XiongYing",
         "danmu": true
       },
       "timeout": 10
@@ -655,21 +663,6 @@
       "filterable": 1,
       "ext": {
         "sp": "Czzy",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "荐片弹幕版",
-      "name": "🌀荐片┃1920",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Jianpian",
         "danmu": true
       },
       "timeout": 10
