@@ -57,15 +57,12 @@
       "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a"
     },
        {
-      "key": "顾我",
+      "key": "幕启星河",
       "name": "❤主02┃3840",
-      "type": 3,
+       "type": 3,
       "api": "csp_AppGet",
-      "changeable": "1",
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://xkos1.xkgzs.xyz|77jkcdvdodfcdkjk",
-      "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966"
+      "ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt|kj37zs29q22jk96t|122|okhttp/3.10.0|Lavf/58.12.100",
+      "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a"
     },
      {
       "key": "仓鼠APP",
@@ -105,19 +102,14 @@
       "ext": "{\"模板\":\"https://gitee.com/smallmi1007/mimi/raw/master/nox.json\",\"域名-c\":\"http://111.170.7.114:8081\",\"xas\":\"3D:D7:7B:07:B0:81:49:AF:90:5E:39:2B:B8:59:A9:99:89:EB:D5:35:6E:06:C0:A4:BE:44:B6:16:43:33:C4:C3\",\"xavn\":\"0.1.5\",\"xap\":\"com.muyuesg.app\",\"xavc\":\"15\"}"
     },
     {
-      "key": "奇奇弹幕版",
+      "key": "星河",
       "name": "❤主07┃3840",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
+       "type": 3,
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "QiQi",
-        "danmu": true
-      },
-      "timeout": 10
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://zbc4kmcs.zbc4k.app|vE4kR7cF6jS6jH7a",
+      "jar": "https://wxkb-res-1258476243.cos.ap-shanghai.myqcloud.com/web/img/8848100788856671/tnQoXVV84noj4smGHqBG6i_20260326065606#.jpg;md5;6b81056369cafcfad1adfa5fe5bc678a"
     },
     {
       "key": "段友",
