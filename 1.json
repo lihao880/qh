@@ -16,18 +16,11 @@
       }
     },
    {
-      "key": "配置中心",
+      "key": "FishConfig",
       "name": "配置┃中心",
       "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "jar": "./spider.jar"
+      "api": "csp_FishConfig",
+      "jar": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F701bb727-0b76-4e3a-8681-712e494c3c2e.php;md5;05d68541eadcc460d42d31fa8994f5a5"
     },
     {
       "key": "本地播放",
