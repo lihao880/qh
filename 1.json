@@ -84,9 +84,44 @@
       "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122",
       "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
     },
+      {
+      "key": "csp_Jpys",
+      "name": "🌀主01┃1920",
+      "type": 3,
+      "timeout": 12,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_Jpys",
+      "ext": "https://ghw9zwp5.com/",
+      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
+    },
+     {
+      "key": "csp_Gz360",
+      "name": "🌀主02┃1920",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 0,
+      "api": "csp_Gz360",
+      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
+    },
     {
+      "key": "文才",
+      "name": "🌀主03┃1920",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "sp": "Jpys",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+      {
       "key": "csp_Wwys",
-      "name": "🌀主1┃1920",
+      "name": "🌀主04┃1920",
       "type": 3,
       "api": "csp_Wwys",
       "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966",
@@ -94,7 +129,7 @@
     },
      {
       "key": "糯米",
-      "name": "🌀主2┃1920",
+      "name": "🌀主05┃1920",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -109,7 +144,7 @@
     },
      {
       "key": "热播弹幕版",
-      "name": "🌀主3┃1920",
+      "name": "🌀主06┃1920",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
@@ -120,31 +155,6 @@
         "sp": "TianTian",
         "danmu": true,
         "site": 0
-      },
-      "timeout": 10
-    },
-      {
-      "key": "还行",
-      "name": "🌀主4┃1920",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "./spider.jar",
-      "ext": "http://m51.gotto.top/api.php/v1.vod"
-    },
-     {
-      "key": "雄鹰弹幕版",
-      "name": "🌀主5┃1920",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "XiongYing",
-        "danmu": true
       },
       "timeout": 10
     },
@@ -502,17 +512,6 @@
       ]
     },
     {
-      "key": "csp_Jpys",
-      "name": "🌀金牌┃1920",
-      "type": 3,
-      "timeout": 12,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Jpys",
-      "ext": "https://ghw9zwp5.com/",
-      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
-    },
-    {
       "key": "csp_Btt",
       "name": "🌀比特┃1920",
       "type": 3,
@@ -548,30 +547,6 @@
       "filterable": 1,
       "ext": {
         "sp": "Yqs",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
-      "key": "csp_Gz360",
-      "name": "🌀瓜子┃1920",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Gz360",
-      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
-    },
-    {
-      "key": "文才",
-      "name": "🌀文才┃1920",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Jpys",
         "danmu": true
       },
       "timeout": 10
