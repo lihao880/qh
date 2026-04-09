@@ -16,11 +16,17 @@
       }
     },
    {
-      "key": "FishConfig",
-      "name": "配置┃中心",
+      "key": "设置",
+      "name": "网弹|设置",
       "type": 3,
-      "api": "csp_FishConfig",
-      "jar": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F701bb727-0b76-4e3a-8681-712e494c3c2e.php;md5;05d68541eadcc460d42d31fa8994f5a5"
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      }
     },
     {
       "key": "本地播放",
@@ -38,21 +44,7 @@
         "sp": "Local"
       }
     },
-    {
-      "key": "馆源",
-      "name": "馆源|自定",
-      "type": 3,
-      "api": "csp_HB360",
-      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a"
-    },
-      {
-      "key": "景天",
-      "name": "景天|4K弹幕",
-      "type": 3,
-      "api": "csp_HBcms10Dou",
-      "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/qq/",
-      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a"
-    },
+   
      {
       "key": "晚吟",
       "name": "❤主01┃3840",
@@ -98,7 +90,8 @@
       "filterable": 1,
       "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122",
       "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
-    },{
+    },
+    {
       "key": "RenRen",
       "name": "❤主06┃3840",
       "type": 3,
@@ -107,6 +100,21 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F701bb727-0b76-4e3a-8681-712e494c3c2e.php;md5;05d68541eadcc460d42d31fa8994f5a5"
+    },
+     {
+      "key": "馆源",
+      "name": "❤主07┃3840",
+      "type": 3,
+      "api": "csp_HB360",
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a"
+    },
+      {
+      "key": "景天",
+      "name": "❤主08┃3840",
+      "type": 3,
+      "api": "csp_HBcms10Dou",
+      "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/qq/",
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a"
     },
       {
       "key": "csp_Jpys",
