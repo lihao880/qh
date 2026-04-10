@@ -1,5 +1,5 @@
 {
-  "notice": "公众号┃机缘宝盒 · 软件完全免费",
+  "notice": "关注公众号：机缘宝盒 ┃ 软件完全免费",
   "spider": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60",
   "wallpaper": "https://tv.nxog.top/m//t/",
   "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
@@ -16,11 +16,18 @@
       }
     },
    {
-      "key": "FishConfig",
-      "name": "配置┃中心",
+      "key": "设置",
+      "name": "网弹|设置",
       "type": 3,
-      "api": "csp_FishConfig",
-      "jar": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F701bb727-0b76-4e3a-8681-712e494c3c2e.php;md5;05d68541eadcc460d42d31fa8994f5a5"
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "indexs": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.618
+      },
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a"
     },
     {
       "key": "本地播放",
@@ -38,6 +45,7 @@
         "sp": "Local"
       }
     },
+   
      {
       "key": "晚吟",
       "name": "❤主01┃3840",
@@ -83,7 +91,8 @@
       "filterable": 1,
       "ext": "https://qj3.ggtvb.cc|eecbio48dsq13kkk|122",
       "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
-    },{
+    },
+    {
       "key": "RenRen",
       "name": "❤主06┃3840",
       "type": 3,
@@ -92,6 +101,21 @@
       "quickSearch": 1,
       "filterable": 0,
       "jar": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2F701bb727-0b76-4e3a-8681-712e494c3c2e.php;md5;05d68541eadcc460d42d31fa8994f5a5"
+    },
+     {
+      "key": "馆源",
+      "name": "❤主07┃3840",
+      "type": 3,
+      "api": "csp_HB360",
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a"
+    },
+      {
+      "key": "景天",
+      "name": "❤主08┃3840",
+      "type": 3,
+      "api": "csp_HBcms10Dou",
+      "ext": "https://zy.jinchancaiji.com/api.php/provide/vod/from/qq/",
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a"
     },
       {
       "key": "csp_Jpys",
@@ -166,6 +190,34 @@
         "site": 0
       },
       "timeout": 10
+    },   
+    {
+      "key": "tenteng",
+      "name": "🌀主07┃1920",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/腾腾.js"
+    },
+    {
+      "key": "youyou",
+      "name": "🌀主08┃1920",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/优优.js"
+    },
+    {
+      "key": "qiqi",
+      "name": "🌀主09┃1920",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/奇奇.js"
+    },
+    {
+      "key": "mangmang",
+      "name": "🌀主10┃1920",
+      "type": 3,
+      "api": "http://103.45.162.207:25252/仅供测试/lib/drpy2.min.js",
+      "ext": "http://103.45.162.207:25252/仅供测试/lib/茫茫.js"
     },
     {
       "key": "热播影视",
@@ -1295,275 +1347,66 @@
       "timeout": 25
     }
   ],
-  "parses": [{"name":"机缘巧盒","type":1,"url":"http://125.208.23.251:1314/lunxun/?url="},
-{
-			"name": "机缘巧盒┃Web聚合",
-			"type": 3,
-			"url": "Web"
-		},
-		{
-			"name": "机缘巧盒┃Json聚合",
-			"type": 3,
-			"url": "Demo"
-		},
-         {
-      "name": "机缘巧盒┃芒果TV",
+   "parses": [
+    {
+      "name": "解析聚合",
+      "type": 3,
+      "url": "Demo"
+    },
+    {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    },
+     {
+      "name": "机缘巧盒",
       "type": 1,
-      "url": "http://110.42.99.99:3722/lg.php/?url=",
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
+    },
+    {
+      "name": "机",
+      "type": 1,
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getuserjx&url="
+    },
+    {
+      "name": "缘",
+      "type": 1,
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi1&url="
+    },
+    {
+      "name": "巧",
+      "type": 1,
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getAbjx&url="
+    },
+    {
+      "name": "盒",
+      "type": 1,
+      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=getXmflvjx&url=",
       "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "sohu",
-          "搜狐",
-          "letv",
-          "乐视",
-          "mgtv",
-          "芒果",
-          "tnmb",
-          "seven",
-          "bilibili",
-          "1905"
-        ],
         "header": {
-          "User-Agent": "okhttp/4.9.1"
+          "Accept": "*/*",
+          "Origin": "https://jx.xmflv.com"
         }
       }
-    },
-        {
-			"name": "机缘巧盒┃巧盒解析",
-			"type": "1",
-			"url": "https://coffee.1ljx.com:32000/api/?key=36d3e7f8-f971-44a7-9063-5db4f218491d&url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-        {
-			"name": "机缘巧盒┃疼疼解析",
-			"type": "1",
-			"url": "https://h5.freejson.xyz/player/?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃臻享",
-			"type": "1",
-			"url": "https://zy.qiaoji8.com/gouzi.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃优选",
-			"type": 1,
-			"url": "http://1.94.221.189:88/algorithm.php?url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃至臻",
-			"type": 1,
-			"url": "http://yunhai.qijiyun.vip/home/api?type=ys&uid=177259&key=dijnouxKNOQSTUWXY5&url=",
-			"ext": {
-				"flag": [
-					"qq",
-					"腾讯",
-					"qiyi",
-					"爱奇艺",
-					"奇艺",
-					"youku",
-					"优酷",
-					"sohu",
-					"搜狐",
-					"letv",
-					"乐视",
-					"mgtv",
-					"芒果",
-					"tnmb",
-					"seven",
-					"bilibili",
-					"1905"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃无双",
-			"type": 1,
-			"url": "http://1.94.221.189:88/algorithm.php?url=",
-			"ext": {
-				"flag": [
-					"hgvip"
-				],
-				"header": {
-					"User-Agent": "okhttp/4.9.1"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃咸鱼",
-			"type": 0,
-			"url": "https://jx.xymp4.cc/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.3124.68"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃虾米",
-			"type": 0,
-			"url": "https://jx.xmflv.com/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃淘片",
-			"type": 0,
-			"url": "https://jx.yparse.com/index.php?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃冰豆",
-			"type": 0,
-			"url": "https://bd.jx.cn/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃七七",
-			"type": 0,
-			"url": "https://jx.77flv.cc/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃盘古",
-			"type": 0,
-			"url": "https://www.playm3u8.cn/jiexi.php?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		},
-		{
-			"name": "机缘巧盒┃夜幕",
-			"type": 0,
-			"url": "https://yemu.xyz/?url=",
-			"ext": {
-				"header": {
-					"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-				}
-			}
-		}
-	],
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "QQ",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "pptv",
+    "PPTV",
+    "mgtv",
+    "wasu",
+    "bilibili",
+    "m1905",
+    "seven",
+    "m78"
+  ],
   "doh": [
     {
       "name": "Google",
