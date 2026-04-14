@@ -102,21 +102,6 @@
       "filterable": 0,
       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260409/vF3w/fish04092313.php;md5;6632fdd5d982addb3ee7748629e68a0f"
     },
-     {
-      "key": "Kan360",
-      "name": "流离｜寒鸦",
-      "type": 3,
-      "api": "csp_Kan360",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a",
-      "ext": {
-        "filter": "https://open.wya6.com/d/down/2026/json/360.json",
-        "fishjx": [
-          "https://jx.xmflv.com/?url="
-        ]
-      }
-    },
       {
       "key": "csp_Jpys",
       "name": "🌀主01┃1920",
@@ -129,13 +114,19 @@
       "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
     },
      {
-      "key": "csp_Gz360",
+      "key": "Kan360",
       "name": "🌀主02┃1920",
       "type": 3,
+      "api": "csp_Kan360",
       "searchable": 1,
-      "quickSearch": 0,
-      "api": "csp_Gz360",
-      "jar": "https://img2.gelonghui.com/library/28e33-d7f6e0ad-8de5-4829-b42c-bcdeaae1ed42.png;md5;28e33eb59669c994ca140064ad4a1eef"
+      "filterable": 1,
+      "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;120e148ffba423c7056197a0d7ca486a",
+      "ext": {
+        "filter": "https://open.wya6.com/d/down/2026/json/360.json",
+        "fishjx": [
+          "https://jx.xmflv.com/?url="
+        ]
+      }
     },
     {
       "key": "文才",
