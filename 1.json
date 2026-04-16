@@ -56,6 +56,25 @@
       "ext": "AbJhoE7SW3YVasqvc+pa+G72k+T3ir+2g1NBGIr+WR241wHaXGkPxuTLLy/TnbCftRxStwIpuUfPUpBcYPV+K2fsqe0kFfcGsbLIlXYQBHlHKm77Wg95LgvthL3VdHlpTUAGhCRuKuxGxVbRa1xSwGKcNPw2vOF7dCBBcULoQo9PMTTlPX67HJl7U9L7SErLLQIoKQ6HQPrL6OMRrrbzSZI=",
       "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260409/vF3w/fish04092313.php;md5;6632fdd5d982addb3ee7748629e68a0f"
     },
+     {
+      "key": "RenRen",
+      "name": "❤主02┃3840",
+      "type": 3,
+      "api": "csp_RenRen",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260409/vF3w/fish04092313.php;md5;6632fdd5d982addb3ee7748629e68a0f"
+    },
+     {
+      "key": "zhiqiu",
+      "name": "❤主03┃3840",
+      "type": 3,
+      "api": "csp_zhiqiu",
+      "searchable": 1,
+      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
+      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260409/vF3w/fish04092313.php;md5;6632fdd5d982addb3ee7748629e68a0f"
+    },
       {
       "key": "3QQQ",
       "name": "❤主04┃3840",
