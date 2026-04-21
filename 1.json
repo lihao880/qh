@@ -54,7 +54,7 @@
       "searchable": 1,
       "changeable": 1,
       "ext": "AbJhoE7SW3YVasqvc+pa+G72k+T3ir+2g1NBGIr+WR241wHaXGkPxuTLLy/TnbCftRxStwIpuUfPUpBcYPV+K2fsqe0kFfcGsbLIlXYQBHlHKm77Wg95LgvthL3VdHlpTUAGhCRuKuxGxVbRa1xSwGKcNPw2vOF7dCBBcULoQo9PMTTlPX67HJl7U9L7SErLLQIoKQ6HQPrL6OMRrrbzSZI=",
-      "jar": "http://我不是.摸鱼儿.com/api/feng/moyu.php?token=moyu996"
+      "jar": "./1212.php"
     },
      {
       "key": "人人影视",
@@ -73,7 +73,7 @@
       "api": "csp_zhiqiu",
       "searchable": 1,
       "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
-      "jar": "http://我不是.摸鱼儿.com/api/feng/moyu.php?token=moyu996"
+      "jar": "./1212.php"
     },
       {
       "key": "3QQQ",
@@ -102,7 +102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "http://我不是.摸鱼儿.com/api/feng/moyu.php?token=moyu996"
+      "jar": "./1212.php"
     },
     {
       "key": "csp_Gz360",
