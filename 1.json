@@ -15,16 +15,6 @@
         "sp": "Douban"
       }
     },
-       {
-      "key": "人人影视",
-      "name": "❤人人｜4K测试",
-      "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/人人影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
    {
       "key": "设置",
       "name": "网弹|设置",
