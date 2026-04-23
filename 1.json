@@ -93,20 +93,9 @@
       "jar": "https://file.icve.com.cn/file_doc/KmxIxyQp/sv3TshAS.pngp;md5;93c53bab6d0dd302b2434983938cd4a4",
       "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
     },
-     {
-      "key": "长泽",
-      "name": "❤主07┃3840",
-      "type": 3,
-      "api": "csp_AppEy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AXCBj5iowoVvHyi5t1+KdWKiwkguKBtxl+07UD+Yhlqa/ZPfvqsDVbvJjODnQyU9zCkd35xXPE5YEyFzoQdfnzrLSxPdSbNuguQnZpaa7FwK9J8rZYQCsaqrfXlbGcakhiSRXtj5RJLW6waEroeVrjCkbVz/xgEld9MVOgFkSZGuPPiKcJQKB+rzqXMVicBbol8cijO1iWzXIeuPfGQLOZvVTFZqrZGkFtR+j5+Jj0AWDDQ494uey8XIxIejWMSibD8xob6I77m/krY9DmZM6jHdG26MwkLkyGO9lSDubISJoKFzFYPM137ZDvJSIyWjioL/CkarK1A6hiRZK1o02os+l5CGFZZZWf4mLrh3WDXWitiaCnQGv94+zOt+ztjY5CNHBKAtlEKoes5JEaYYRLi661H77z9VErCFm5NwNxJ6wYLnRIHCM6/haRx0GqPR/h1tfPqZBhJQTJVgz6N80Hz1GRtDZKDw45BCkkjwtEnk9uKJF93dH/jThb4BcA9XxzEEV3mFUp8qXPUtJF0zxlJtnoYBDCEWT4Ax+h4kUa+jU8mB7Q8/38exbw1CsJphYP5wBYD07UfiUYZj/PW0n0f7/Zw/IGaF2bzJiYK3+kySYrvxTFB8dR3YnmEoqDSqB799pAapyoKhs+Re4/wW2klu3yDDPA5ePZj/R/+1MgXn/w4i2d/S/Cb494oEOCtz0jukudu8Ca1qZq9K+fVxxy1mEsa6yJUR3kvXHV1cojO/0MJhkABoGPFhnHGJK4/fVNJkCIMbLvetur4ZXLYZTss=",
-      "jar": "./1212.php"
-    },
     {
       "key": "csp_Gz360",
-      "name": "❤主08┃2630",
+      "name": "❤主07┃2630",
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
@@ -190,6 +179,13 @@
       "filterable": 1,
       "jar": "./qxyc.jar",
       "ext": "./lib/农民影视.json"
+    },
+     {
+      "key": "csp_SaoHuo",
+      "name": "🌀主08｜1920",
+      "type": 3,
+      "jar": "https://file.icve.com.cn/file_doc/KmxIxyQp/sv3TshAS.pngp;md5;93c53bab6d0dd302b2434983938cd4a4",
+      "api": "csp_SaoHuo"
     },
     {
       "key": "Wogg",
