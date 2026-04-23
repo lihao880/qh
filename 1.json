@@ -190,7 +190,7 @@
       "type": 3,
       "api": "csp_SaoHuo",
       "playerType": 2,
-      "jar": "./qxyc.jar",
+      "jar": "./lib/qxyc.jar",
       "ext": "https://shdy5.us"
     },
     {
