@@ -184,6 +184,15 @@
         "url": "http://v.rbotv.cn"
       }
     }, 
+     {
+      "key": "骚火影视",
+      "name": "🌀主07｜1920",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "jar": "./qxyc.jar",
+      "ext": "https://shdy5.us"
+    },
     {
       "key": "Wogg",
       "name": "❤玩偶┃3840",
