@@ -1,19 +1,18 @@
 {
   "notice": "关注公众号：机缘宝盒 ┃ 软件完全免费",
-  "spider": "./yimi.png;md5;127ea82cb8bf8a82f0cf64da66e39b60",
+  "spider": "./1212.php",
   "wallpaper": "https://tv.nxog.top/m//t/",
   "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
   "sites": [
     {
-      "key": "豆瓣",
+      "key": "Douban",
       "name": "公众号：机缘宝盒┃视频号：机缘巧盒凯弟",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
+       "type": 3,
+      "api": "csp_Douban",
+      "indexs": 1,
       "searchable": 0,
-      "changeable": 1,
-      "ext": {
-        "sp": "Douban"
-      }
+      "filterable": 1,
+      "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/2026/douban.json"
     },
    {
       "key": "设置",
