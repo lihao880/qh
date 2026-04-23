@@ -184,6 +184,16 @@
         "url": "http://v.rbotv.cn"
       }
     }, 
+     {
+      "key": "农民影视",
+      "name": "🌀主07｜1920",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/农民影视.json"
+    },
     {
       "key": "Wogg",
       "name": "❤玩偶┃3840",
