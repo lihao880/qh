@@ -141,6 +141,14 @@
         ]
       }
     },
+    
+      "key": "永夜",
+      "name": "🌀主03┃1920",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
+    },
       {
       "key": "csp_Wwys",
       "name": "🌀主04┃1920",
@@ -149,22 +157,9 @@
       "jar": "https://file.icve.com.cn/file_doc/760/258/BE34098BC78D1B0CF269C2617E8DF966.png;md5;be34098bc78d1b0cf269c2617e8df966",
       "ext": "https://vip.wwgz.cn:5200"
     },
-    {
-      "key": "热播影视",
-      "name": "🌀热播｜1920",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./spider.jar",
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },
-    {
+     {
       "key": "数字",
-      "name": "🌀数字｜1920",
+      "name": "🌀主05｜1920",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -173,6 +168,19 @@
         "url": "http://app1-0-0.87333.cc",
         "dataKey": "VwsHxkCViDXEExWa",
         "dataIv": "VwsHxkCViDXEExWa"
+      }
+    },
+    {
+      "key": "热播影视",
+      "name": "🌀主06｜1920",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./spider.jar",
+      "ext": {
+        "url": "http://v.rbotv.cn"
       }
     },
     {
