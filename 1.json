@@ -188,6 +188,17 @@
       "api": "csp_SaoHuo"
     },
     {
+      "key": "电影天堂",
+      "name": "🌀主09｜1920",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
       "key": "Wogg",
       "name": "❤玩偶┃3840",
       "type": 3,
@@ -281,17 +292,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "电影天堂",
-      "name": "🌀天堂┃1920",
-      "type": 1,
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 10
     }
   ],
    "parses": [
