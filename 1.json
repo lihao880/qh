@@ -14,7 +14,7 @@
       "filterable": 1,
       "ext": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/2026/douban.json"
     },
-    {
+  {
       "key": "FishConfig",
       "name": "设置｜中心",
       "type": 3,
@@ -436,7 +436,7 @@
       "style": {
         "type": "list"
       }
-    },
+    }
   ],
    "parses": [
     {
