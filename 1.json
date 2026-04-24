@@ -267,7 +267,7 @@
     },
     {
       "key": "Wogg",
-      "name": "❤玩偶┃3840",
+      "name": "❤盘01┃3840",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -286,7 +286,7 @@
     },
     {
       "key": "FishLabi",
-      "name": "❤蜡笔┃3840",
+      "name": "❤盘02┃3840",
       "type": 3,
       "api": "csp_FishCloud",
       "searchable": 1,
@@ -304,7 +304,7 @@
     },
     {
       "key": "FishHuban",
-      "name": "❤虎斑┃3840",
+      "name": "❤盘03┃3840",
       "type": 3,
       "api": "csp_FishCloud",
       "searchable": 1,
@@ -316,7 +316,7 @@
     },
     {
       "key": "LeiJing",
-      "name": "❤雷鲸┃3840",
+      "name": "❤盘04┃3840",
       "type": 3,
       "api": "csp_LeiJing",
       "searchable": 1,
@@ -332,7 +332,7 @@
     },
     {
       "key": "夸父",
-      "name": "❤夸父┃3840",
+      "name": "❤盘05┃3840",
       "type": 3,
       "api": "csp_FishKF",
       "searchable": 1,
@@ -352,14 +352,108 @@
     },
     {
       "key": "糖果",
-      "name": "❤糖果┃3840",
+      "name": "❤盘06┃3840",
       "type": 3,
       "api": "csp_TGSou",
       "jar": "./spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
+    },
+        {
+      "key": "aiting",
+      "name": "🎶爱听┃音乐",
+      "type": 3,
+      "api": "csp_AiTingMusic",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Music24bit",
+      "name": "🎶无损┃音乐",
+      "type": 3,
+      "api": "csp_Music24bit",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "categories": [
+          "周杰伦",
+          "林俊杰",
+          "陈奕迅",
+          "邓紫棋",
+          "薛之谦"
+        ]
+      }
+    },
+       {
+      "key": "Kanqiu",
+      "name": "🏀看球┃体育",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 0,
+      "filterable": 1,
+      "indexs": 0,
+      "ext": "http://www.88kanqiu.one",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "Sir88",
+      "name": "🏀超全┃体育",
+      "type": 3,
+      "api": "csp_Sir88",
+      "searchable": 0,
+      "filterable": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+     {
+      "key": "TuXiaoBei",
+      "name": "👧小兔┃少儿",
+      "type": 3,
+      "api": "csp_TuXiaoBei",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "BeiLeHu",
+      "name": "👧小虎┃少儿",
+      "type": 3,
+      "api": "csp_BeiLeHu",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "TingBook",
+      "name": "📚六月┃有声",
+      "type": 3,
+      "api": "csp_TingBook",
+      "searchable": 1,
+      "indexs": 0,
+      "ext": "https://app.365ting.com",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "TingBookJinXia",
+      "name": "📚堇夏｜有声",
+      "type": 3,
+      "api": "csp_TingBookJinXia",
+      "searchable": 1,
+      "filterable": 1,
+      "indexs": 0,
+      "ext": "https://m.ting15.com",
+      "style": {
+        "type": "list"
+      }
+    },
   ],
    "parses": [
     {
