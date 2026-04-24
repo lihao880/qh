@@ -20,23 +20,6 @@
       "type": 3,
       "api": "csp_FishConfig"
     },
-    {
-      "key": "本地播放",
-      "name": "本地┃播放",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 5,
-      "ext": {
-        "sp": "Local"
-      }
-    },
-   
      {
       "key": "晚吟",
       "name": "❤主01┃3840",
