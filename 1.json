@@ -57,14 +57,15 @@
       "jar": "https://file.icve.com.cn/file_doc/KmxIxyQp/sv3TshAS.pngp;md5;93c53bab6d0dd302b2434983938cd4a4",
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q22.txt|nzEqOYYH3QzHuEPl|122|Lavf/58.12.100"
     },
-     {
-      "key": "zhiqiu",
+      {
+      "key": "若寒",
       "name": "❤主03┃3840",
       "type": 3,
-      "api": "csp_zhiqiu",
+      "api": "csp_AppEy",
       "searchable": 1,
-      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
-      "jar": "./1212.php"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AQ9Lg7S4ZB0EmWILI1ZpGjwhYjCe54m22c/8tjfDYA6qsWE+j5YnWoQ9ADCwM+RrBO5AhwFlKa/FqPidMBpkS+52UDt7OJ/nXo9hTHHCi6LTvJayzkZRd4j9utb1AcYfsD5LWpq6dH6KpcpxYrwu12B0Zi5ZEfVcpFlfe9zZacsH+/ZHOpht5zLaypr+m4xIAMyMSoK+c3x36YxoEFQDMryv4da9D1NA5UU2B3BgT2vECOmBnU91dE05sUz9grnuEc27nEJ2MLq7P1K5Qnz2+Y9bvMxjFoGe6qy+kb+RH1JbMUFOly22sSXEMxCu4fhyQ4xcj37h2PHzUbAqB4fp3bVXNIKMDQTInkBPPgqRj1TLO14PN+u6wBMdiFlJkXYCyopqkV0d5KbdNrI1hcAH71tF/oIY4/aMO+PPviwFwI18wp594UmTUrWc6eCzoI96y196tkmIGwyMguF0eaG97gVJvwn1IwDShrTTO9iYXgsIY5n85WzNFzYoURgbO9zgGRHkt1UAajx0vuYnTcLGiSGvApEZ0v+ihgWRu8kRL/e1zB3gf1iJWThfo6arV4vTgf7TBQpFHyroryMYTHJtdh8VrWFobxgZK5fQSw5JKSPhQLihEOleAcg9Z54ykIKa80ocH+047qQVA1SS446lf+wfIxkZT9oC1rApr/BDdXH7nVezkVkH2zQoYauBwB4Y5w=="
     },
       {
       "key": "3QQQ",
@@ -74,6 +75,7 @@
       "api": "csp_App3Q",
       "jar": "https://cdn2.wemiaow.com/20260401232042-14-Vwa30U.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
     },
+
      {
       "key": "JINPAI",
       "name": "❤主05┃3840",
@@ -94,8 +96,36 @@
       "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
     },
     {
+      "key": "zhiqiu",
+      "name": "❤主07┃3840",
+      "type": 3,
+      "api": "csp_zhiqiu",
+      "searchable": 1,
+      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
+      "jar": "./1212.php"
+    },  {
+      "key": "怀桑",
+      "name": "❤主08┃3840",
+      "type": 3,
+      "api": "csp_AppEy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "Aey0H1IVVgH6JF5Tyng4o1l0UHiaXENvzMubfWofIdS4alGpPyrakxjaV+QnqNUkGgi/EJpuCcLxim8AQ6gYQYeIidvKCaYEV0B0Lk1HqWKSaBRDKF9kzx1VNgW8GaY1dYnzMD6DvETPpO88mKlwWRmZYCXuK/+FbtM37ENBbmyZ9hPLpzMLHky0gf+Oe5xB2FT94CnK4djI/jD3gqkCkDt9SmNrsYFFR2nDu1SrQJeVSgzx7M2LYuTj+E8PwbJAxBFH8g04gHQJtU6o/nrx2TqDK26WHFMejWvI8j8bHVQ5aK5Y4/fZ8lVIZHTAb3clJ7GTA+bgMSWDddCjIpKUzAAzKjrVEuMq59QTWta9ZvMN8rbzeTN9hMp2lQqIBTF4u/g657KJS5RKbLAr7lVcrcjrMvZwe6EVwpy3480CXbG+9TLTWm2hRbhMqXRUjMii3sOlQFcra+XF7vyGl7O+GRzEWxR+/UYUdJ6Vt7rzSiOUhNxdCunFEERKIk/1rIBcoHL3tPvXj7LOD/193xNTZR9TEvT//ET3qdyJvfPrTSBWk37ZKim1d4WSM3hwqSI+X/7vPXt40leKSXIGK15ajaHJtpQNRfxF1BA4pVSe602OQrRsQHYeBwASZl2+zIa8KCVg0EjD/qBWjk37VM5Iwl61ykswGgRWKWFzDzVDHYgg6vJ1aTWmZngusAwxClBMsTyM/B4ZxuodUjv9cAAUkUk="
+    },
+     {
+      "key": "长泽",
+      "name": "❤主09┃3840",
+      "type": 3,
+      "api": "csp_AppEy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AXCBj5iowoVvHyi5t1+KdWKiwkguKBtxl+07UD+Yhlqa/ZPfvqsDVbvJjODnQyU9zCkd35xXPE5YEyFzoQdfnzrLSxPdSbNuguQnZpaa7FwK9J8rZYQCsaqrfXlbGcakhiSRXtj5RJLW6waEroeVrjCkbVz/xgEld9MVOgFkSZGuPPiKcJQKB+rzqXMVicBbol8cijO1iWzXIeuPfGQLOZvVTFZqrZGkFtR+j5+Jj0AWDDQ494uey8XIxIejWMSibD8xob6I77m/krY9DmZM6jHdG26MwkLkyGO9lSDubISJoKFzFYPM137ZDvJSIyWjioL/CkarK1A6hiRZK1o02os+l5CGFZZZWf4mLrh3WDXWitiaCnQGv94+zOt+ztjY5CNHBKAtlEKoes5JEaYYRLi661H77z9VErCFm5NwNxJ6wYLnRIHCM6/haRx0GqPR/h1tfPqZBhJQTJVgz6N80Hz1GRtDZKDw45BCkkjwtEnk9uKJF93dH/jThb4BcA9XxzEEV3mFUp8qXPUtJF0zxlJtnoYBDCEWT4Ax+h4kUa+jU8mB7Q8/38exbw1CsJphYP5wBYD07UfiUYZj/PW0n0f7/Zw/IGaF2bzJiYK3+kySYrvxTFB8dR3YnmEoqDSqB799pAapyoKhs+Re4/wW2klu3yDDPA5ePZj/R/+1MgXn/w4i2d/S/Cb494oEOCtz0jukudu8Ca1qZq9K+fVxxy1mEsa6yJUR3kvXHV1cojO/0MJhkABoGPFhnHGJK4/fVNJkCIMbLvetur4ZXLYZTss="
+    },
+    {
       "key": "csp_Gz360",
-      "name": "❤主07┃2630",
+      "name": "❤主10┃2630",
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
