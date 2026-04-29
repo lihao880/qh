@@ -1908,7 +1908,7 @@
     }
   ],
   "notice": "欢迎使用味精影院.4K影片至少需要500M宽带才可观看",
-  "spider": "./spider.jar",
+  "spider": "./999.jar",
   "wallpaper": "无",
   "doh": [
     {
