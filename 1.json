@@ -185,12 +185,11 @@
     {
       "key": "热播影视",
       "name": "🌀主05｜1920",
-      "type": 3,
+       "type": 3,
       "api": "csp_AppRJ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/spider.jar",
       "ext": {
         "url": "http://v.rbotv.cn"
       }
@@ -214,13 +213,17 @@
       "api": "csp_SaoHuo"
     },
     {
-      "key": "柠檬",
+      "key": "茉莉",
       "name": "🌀主08｜1920",
       "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "./lib/fix260410.jar;md5;1069df603996411da45b18bc718959ca",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+        "dataKey": "88689667dce61725",
+        "dataIv": "88689667dce61725"
+      }
     },
     {
       "key": "电影天堂",
@@ -255,6 +258,20 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+     {
+      "key": "蓝鹰",
+      "name": "🌀主12｜1920",
+      "type": 3,
+      "api": "./lib/get.js",
+      "searchable": 1,
+      "ext": {
+        "host": "https://xinlanyinghb.oss-cn-wuhan-lr.aliyuncs.com/xly.txt",
+        "key": "ca94b06ca359d80e",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
     },
     {
       "key": "Wogg",
