@@ -112,6 +112,33 @@
       "changeable": 1,
       "ext": "AVnc8GrQ60b99UNiByaoVBLi0nQIye9tIJpcatPQxKNejwWbESMtZqTSqvqu4Ta6bruCw3DXci6tk9xM6kX3ssDazlhQPK70UpwzMQMesOOv6BNwKiujCiDpSmZoaaDhsFuelCejTDy5OuTOA06RCzqauWujH6J7eQBNk9VCBHEFfOl+f81FzcbLyWsXEBZZCKgDBBZBpd0tPJ9AyFVPjGE="
     },
+       {
+      "key": "秒看",
+      "name": "❤主11┃3840",
+      "type": 3,
+      "quickSearch": 1,
+      "jar": "http://rihou.cc:88/jar/vox.jar;md5;24ff47b48074c23e8a409da23aa2c0d1",
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://mk1080.top/get.txt",
+        "datakey": "c60d88b2eep53za8",
+        "token": "4181e508e7a17657d6a6246e70b1b13553e5ae9d8d287dc47000fb2df638dffa",
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "星空",
+      "name": "🍿星空┃4K",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "url": "https://xk9.xkgzs.xyz",
+        "dataKey": "106jkcdnkldzckjk",
+        "dataIv": "106jkcdnkldzckjk"
+      }
+    },
     {
       "key": "csp_Wwys",
       "name": "🌀主01┃1920",
