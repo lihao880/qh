@@ -87,15 +87,6 @@
       "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
     },
     {
-      "key": "zhiqiu",
-      "name": "❤主07┃3840",
-      "type": 3,
-      "api": "csp_zhiqiu",
-      "searchable": 1,
-      "ext": "https://fishapi.wya6.com/fish/zhiqiu.php",
-      "jar": "./1212.php"
-    },
-    {
       "key": "怀桑",
       "name": "❤主08┃3840",
       "type": 3,
@@ -152,21 +143,6 @@
       "api": "csp_Wwys",
       "jar": "https://cdn2.wemiaow.com/20260401232042-14-Vwa30U.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3",
       "ext": "https://vip.wwgz.cn:5200"
-    },
-    {
-      "key": "Kan360",
-      "name": "🌀主02┃1920",
-      "type": 3,
-      "api": "csp_Kan360",
-      "searchable": 1,
-      "filterable": 1,
-      "jar": "./1212.php",
-      "ext": {
-        "filter": "./lib/360.json",
-        "fishjx": [
-          "https://jx.xmflv.com/?url="
-        ]
-      }
     },
     {
       "key": "wencai",
