@@ -1,24 +1,28 @@
 {
   "notice": "关注公众号：机缘宝盒 ┃ 软件完全免费",
-  "spider": "./1212.php",
+  "spider": "https://xn--b99b-wn6lw489o.v.nxog.top/m/jar?id=index;md5;678e6aa8cd76dad3bf565c8d98238bce",
   "wallpaper": "https://tv.nxog.top/m//t/",
   "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
+  "warningText": "📢接口软件永远免费 \n📢长期维护切勿贩卖 \n📢定期重置APP获取新线路",
   "sites": [
     {
-      "key": "Douban",
+      "key": "豆瓣2",
       "name": "公众号：机缘宝盒┃视频号：机缘巧盒凯弟",
-      "type": 3,
+       "type": 3,
       "api": "csp_Douban",
-      "indexs": 1,
-      "searchable": 0,
-      "filterable": 1,
-      "ext": "./lib/douban.json"
+      "searchable": 0
     },
-    {
-      "key": "FishConfig",
-      "name": "设置｜中心",
+     {
+      "key": "配置中心",
+      "name": "❤配置｜中心",
       "type": 3,
-      "api": "csp_FishConfig"
+      "api": "csp_Config",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      }
     },
      {
       "key": "星空",
