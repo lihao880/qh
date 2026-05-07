@@ -508,6 +508,31 @@
       "style": {
         "type": "list"
       }
+    },
+      {
+      "key": "kktd",
+      "name": "🍬糖豆┃广场舞",
+      "type": 1,
+      "api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "drpyS_梨园行[戏]",
+      "name": "🎬梨园行┃戏曲",
+      "type": 4,
+      "api": "http://82.158.91.105:5757/api/梨园行[戏]?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "梨园行[戏]",
+      "author": "EylinSir",
+      "类型": "影视",
+      "logo": "https://img.znds.com//uploads/new/221222/9-2212221050561N.png",
+      "lang": "ds",
+      "ext": ""
     }
   ],
   "parses": [
