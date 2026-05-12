@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆瓣2",
-      "name": "石头影视",
+      "name": "雷石影视",
        "type": 3,
       "api": "csp_Douban",
       "searchable": 0
