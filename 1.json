@@ -435,10 +435,27 @@
       "name": "💿盘04┃3840",
       "type": 3,
       "api": "csp_TGSou",
-      "jar": "./lib/spider.jar",
+      "jar": "http://110.42.36.65:2345/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+     {
+      "key": "天翼影",
+      "name": "💿盘05┃3840",
+      "type": 1,
+      "api": "http://7.qqqtv.top/api.php/provide/vod/",
+      "jar": "http://110.42.36.65:2345/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "推荐",
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
     },
     {
       "key": "catvod_网抑云[听]",
