@@ -25,17 +25,11 @@
       }
     },
      {
-      "key": "星空",
+      "key": "皮皮虾",
       "name": "❤主01┃3840",
       "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://xk9.xkgzs.xyz",
-        "dataKey": "106jkcdnkldzckjk",
-        "dataIv": "106jkcdnkldzckjk"
-      }
+      "api": "./lib/ppx.py",
+      "ext": "http://154.94.224.98:8762"
     },
     {
       "key": "3QQQ",
@@ -46,12 +40,24 @@
       "jar": "https://cdn2.wemiaow.com/20260401232042-14-Vwa30U.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
     },
     {
-      "key": "四叶草",
+       "key": "橘汁",
       "name": "❤主03┃3840",
       "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://file.icve.com.cn/file_doc/KmxIxyQp/sv3TshAS.pngp;md5;93c53bab6d0dd302b2434983938cd4a4",
-      "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk|122|okhttp/3.10.0|Lavf/58.12.100"
+      "api": "csp_AppDrama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "DGVQRUX5R1LWWDLHTGJSUKG1DJRVPQ==",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.lxf.snzlcgtzxyx",
+        "host": "",
+        "site": "./lib/app.txt",
+        "version": "3.0.2.1",
+        "decrypt": "1"
+      }
     },
      {
       "name": "❤主04┃3840",
@@ -70,10 +76,20 @@
       }
     },
        {
-      "key": "瓜子影视",
+      "key": "追番99",
       "name": "❤主05┃3840",
       "type": 3,
-      "api": "csp_Gz360"
+      "api": "csp_App99",
+      "ext": {
+        "host": "https://api.hboqy.cn.hboqy.cn/api",
+        "LoginPath": "/app/log",
+        "appkey": "a0a18659a9977a47e53442cd084b536c",
+        "versionName": "6.1.7",
+        "name": "追番达人",
+        "package": "com.android.packageinstaller",
+        "buildNumber": "2002",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
     },
     {
       "key": "4K影视",
