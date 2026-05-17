@@ -6,7 +6,7 @@
   "warningText": "软件内部使用 永远免费 \n长期维护 切勿贩卖 \n定期重置APP获取新线路",
   "sites": [
     {
-      "key": "豆瓣2",
+      "key": "豆瓣",
       "name": "公众号：机缘宝盒┃视频号：机缘巧盒凯弟",
        "type": 3,
       "api": "csp_Douban",
