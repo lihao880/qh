@@ -242,6 +242,16 @@
         "decrypt": "0"
       }
     },
+     {
+      "key": "爱营",
+      "name": "❤主16┃3840",
+      "type": 3,
+      "jar": "https://lz.qaiu.top/parser?url=https://wwbsd.lanzouu.com/iUGFg3oxz9ch&pwd=5dxa",
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
+    },
     {
       "key": "csp_Wwys",
       "name": "🌀主01┃1920",
