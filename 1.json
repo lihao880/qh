@@ -7,7 +7,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "公众号：机缘宝盒┃视频号：机缘巧盒凯弟",
+      "name": "雷石影视",
        "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -251,12 +251,6 @@
       "changeable": 1,
       "api": "csp_AppGet",
       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
-    },
-     {
-      "key": "fy",
-      "name": "❤主17┃3840",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/fy.py"
     },
     {
       "key": "csp_Wwys",
