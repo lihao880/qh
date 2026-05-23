@@ -1,11 +1,8 @@
 {
   "spider": "./spider.jar",
   "wallpaper": "https://wp.upx8.com/api.php",
-  "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
-  "warningText": "tv提示:
-📢机缘巧盒机顶盒专用 
-📢终身免费长期维护
-📢智能AI已过滤广告",
+  "logo": "",
+  "warningText": "内部专用 请勿传播",
   "lives": [
     {
       "name": "冰茶",
