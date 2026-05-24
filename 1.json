@@ -7,14 +7,14 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "雷石影视",
+      "name": "公众号：机缘宝盒>>>内部使用 请勿传播",
        "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
      {
       "key": "配置中心",
-      "name": "❤配置｜中心",
+      "name": "shezhi配置｜中心",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
