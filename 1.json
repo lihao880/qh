@@ -24,15 +24,27 @@
         "ratio": 1.597
       }
     },
-     {
-      "key": "追剧",
+      {
+      "key": "首发",
       "name": "❤主01┃3840",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/追剧.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
+      "api": "./lib/get.js",
+      "ext": {
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
+        "key": "FTgP4Gq8zPiqbt7M",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      },
+      "categories": [
+        "动漫",
+        "电视剧",
+        "电影",
+        "综艺",
+        "短剧",
+        "少儿",
+        "学习"
+      ]
     },
      {
       "key": "三秋影视",
