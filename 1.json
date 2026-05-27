@@ -25,19 +25,20 @@
       }
     },
      {
-      "key": "皮皮虾",
+      "key": "追剧",
       "name": "❤主01┃3840",
       "type": 3,
-      "api": "./lib/ppx.py",
-      "ext": "http://154.94.224.98:8762"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/追剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
     },
-    {
-      "key": "3QQQ",
+     {
+      "key": "三秋影视",
       "name": "❤主02┃3840",
       "type": 3,
-      "timeout": 15,
-      "api": "csp_App3Q",
-      "jar": "https://cdn2.wemiaow.com/20260401232042-14-Vwa30U.jpg;md5;59bcc1aa8c1ecf7d08a282ac63705ab3"
+      "api": "csp_App3Q"
     },
     {
        "key": "橘汁",
@@ -92,29 +93,37 @@
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
       }
     },
-    {
-      "key": "4K影视",
+   {
+      "key": "顾我99",
       "name": "❤主06┃3840",
       "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
+      "api": "csp_App99",
       "ext": {
-        "url": "http://110.42.67.221:9002",
-        "dataKey": "FTgP4Gq8zPiqbt7M",
-        "dataIv": "FTgP4Gq8zPiqbt7M"
+        "host": "http://117.50.200.113:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "040f9b1bc5e942569b5c3e63943306ab",
+        "versionName": "4.3.1",
+        "name": "顾我追剧",
+        "package": "com.guwozhuijux.app",
+        "buildNumber": "2001",
+        "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
       }
     },
-      {
+        {
+      "key": "橙子99",
       "name": "❤主07┃3840",
-      "key": "YIys",
       "type": 3,
-      "api": "csp_YIysAmns",
-      "jar": "./lib/嗷呜.jar;md5;7370a5264d625d5eedc0f99ba3c8a18d",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://113.31.180.218:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
+        "versionName": "4.3.1",
+        "name": "小橙子",
+        "package": "com.xchengzix.app",
+        "buildNumber": "2001",
+        "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
+      }
     },
    {
       "name": "❤主08┃3840",
