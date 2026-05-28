@@ -50,7 +50,6 @@
      "key": "乐看",
      "name": "❤主02┃3840",
      "type": 3,
-     "jar":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
      "api": "csp_AppGet",
      "searchable": 1,
      "changeable": 1,
