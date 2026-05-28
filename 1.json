@@ -47,6 +47,47 @@
       ]
     },
     {
+            "key": "乐看",
+            "name": "乐看视频",
+            "type": 3,
+"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://lkvlog.cn/",
+                "dataKey": "e65144389e9361b5",
+                "dataIv": "e65144389e9361b5",
+                "token": "cb5813efbe4312687f50027529f89357cf0bf0b698f19f9be5f71403d339e061"
+            }
+        },
+        {
+      "key": "扁的8码的",
+      "name": "追光影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hulanlu/01/refs/heads/main/jar/XBPQ.jar",
+      "ext": {
+        "数组": "p:.module-poster-item||p:.module-item",
+        "链接": "p:->href",
+        "图片": "p:->data-original",
+        "标题": "p:->title||p:->alt",
+        "副标题": "p:.module-item-note->text|",
+        "线路数组": "p:.module-tab-items-box span",
+        "线路标题": "p:->text",
+        "播放数组": "p:.module-play-list",
+        "播放列表": "p:a",
+        "播放标题": "p:->text",
+        "播放链接": "p:->href",
+        "搜索模式": "1",
+        "跳转播放数组": "player_aaaa=&&</script",
+        "跳转播放链接": "j:url",
+        "搜索url": "https://www.4kmovie.top/vodsearch/{wd}----------{pg}---.html",
+        "分类": "电影$20#电视剧$37#动漫$43#综艺$45#B站$47",
+        "分类url": "https://www.4kmovie.top/vodshow/{cateId}--------{catePg}---.html"
+      }
+      },
+    {
       "key": "火云",
       "name": "❤主02┃3840",
       "type": 3,
@@ -494,7 +535,7 @@
     {
       "name": "机缘巧盒",
       "type": 1,
-      "url": "http://127.0.0.1:9997/proxy?do=seachdanmu&go=hubanjiexi&url="
+      "url": "http://103.149.201.157:61233/api/?key=f27801069b2f0f2f72f1e99f4cb68c52&url="
     },
     {
       "name": "机",
