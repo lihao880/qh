@@ -49,26 +49,12 @@
       "ext": "http://183.136.134.152:250/lib/bili.js"
     },
       {
-      "key": "首发",
-      "name": "❤主01┃3840",
+      "key": "四叶草",
+      "name": "🍀幸运┃1080P",
       "type": 3,
-      "api": "./lib/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
-        "key": "FTgP4Gq8zPiqbt7M",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      },
-      "categories": [
-        "动漫",
-        "电视剧",
-        "电影",
-        "综艺",
-        "短剧",
-        "少儿",
-        "学习"
-      ]
+      "jar":"./NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+      "api": "csp_AppGet",
+      "ext": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt|wNCwbXzr0Bm6cS2C|V122|okhttp/3.10.0"
     },
     {
      "key": "乐看",
