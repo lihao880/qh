@@ -86,6 +86,13 @@
         "decrypt": "1"
       }
     },
+    {
+      "key": "三秋影视",
+      "name": "❤主04┃3840",
+      "type": 3,
+      "jar":"./wyxs.php",
+      "api": "csp_App3Q"
+    },
        {
       "key": "追番99",
       "name": "❤主05┃3840",
@@ -100,6 +107,23 @@
         "package": "com.android.packageinstaller",
         "buildNumber": "2002",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
+    },
+    {
+      "key": "顾我99",
+      "name": "❤主06┃3840",
+      "type": 3,
+      "jar":"./wyxs.php",
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://117.50.200.113:19987/app/bn",
+        "LoginPath": "/app/log",
+        "appkey": "040f9b1bc5e942569b5c3e63943306ab",
+        "versionName": "4.3.1",
+        "name": "顾我追剧",
+        "package": "com.guwozhuijux.app",
+        "buildNumber": "2001",
+        "buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"
       }
     },
         {
