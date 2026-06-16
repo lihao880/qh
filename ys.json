@@ -594,7 +594,7 @@
     {
       "name": "机缘宝盒",
       "type": 0,
-      "url": "https://www.mpimg.cn/down.php/ad678d1e69c28ecf772a88129a792c41.txt",
+      "url": "https://www.mpimg.cn/down.php/fd5fc22ef886b2c66a01ddab46e9c05b.txt",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": 5,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
