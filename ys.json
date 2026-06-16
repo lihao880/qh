@@ -592,53 +592,23 @@
   ],
   "lives": [
     {
-      "name": "壹米直播",
+      "name": "机缘宝盒",
       "type": 0,
-      "url": "https://gitee.com/yimi321/ymys/raw/master/lib/tv.png",
+      "url": "https://www.mpimg.cn/down.php/ad678d1e69c28ecf772a88129a792c41.txt",
       "ua": "okhttp/3.15,AptvPlayer/1.4.0",
       "timeout": 5,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://11.112114.xyz/logo/{name}.png"
     },
-    {
-      "name": "咪咕",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8",
-      "playerType": 2,
-      "timeout": 10
-    },
-    {
-      "name": "虎牙轮播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/huyayqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "B站直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/bililive.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "斗鱼轮播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/douyuyqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    },
-    {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/yylunbo.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.4.0.0"
-    }
+   {
+      "name":"风云直播",
+      "type":0,
+      "url":"http://iptv.4666888.xyz/FYTV.m3u",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      }
   ],
   "ijk": [
     {
