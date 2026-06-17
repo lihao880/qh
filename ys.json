@@ -37,8 +37,8 @@
       "name": "❤芒芒┃3840",
       "jar":"http://125.208.22.184:6019/uploads/tvbox/jar/spider2.jar;md5;83e07fbdf15ceb9d57201bfbfe5ad818",
       "type": 3,
-      "api": "http://183.136.134.152:250/lib/drpy2.min.js",
-      "ext": "./lib/MG.js"
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/主线3.js"
     },
     {
       "key": "哔哩视频",
@@ -463,18 +463,18 @@
     {
       "name": "机缘宝盒",
       "type": 1,
-      "url": "http://mlwl.7766.org:55/api/?key=Fg8hz4dZkcniXKc6J5&url="
+      "url": "http://61.184.23.217:6163/api/index?parsesId=4&appid=10002&videoUrl="
       
     },
     {
       "name": "机",
       "type": 1,
-      "url": "https://jiexi.jdyx.pro/api/?key=c87681c93d5e430cacd351f00e831aa5&url="
+      "url": "http://103.236.55.163:6565/api/index?parsesId=4&appid=10000&videoUrl="
     },
     {
       "name": "缘",
       "type": 1,
-      "url": "http://miyao1.wk57.top/iJKHhGGigLJGiH.php?url="
+      "url": "http://125.208.22.184:6019/api/index?parsesId=550266&appid=10000&videoUrl="
     },
     {
       "name": "宝",
