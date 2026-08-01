@@ -307,7 +307,7 @@
     },
       {
       "key": "电影港",
-      "name": "🎃电影｜磁力",
+      "name": "🧲磁力01",
       "type": 3,
       "api": "csp_XYQHiker",
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
@@ -318,7 +318,7 @@
     },
      {
       "key": "七味",
-      "name": "🎃七味｜磁力",
+      "name": "🧲磁力02",
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
       "type": 3,
       "api": "csp_QnMp4",
