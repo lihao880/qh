@@ -32,7 +32,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_AppGet",
-      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c",
+      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
        "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
     },
      {
@@ -40,7 +40,7 @@
       "name": "❤主02┃3840",
       "type": 3,
       "api": "csp_AppGet",
-      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c",
+      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
       "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
     {
@@ -63,20 +63,22 @@
         "decrypt": "1"
       }
     },
-   {
-      "key": "3QQQ",
+  {
+      "key": "枫叶影视",
       "name": "❤主04┃3840",
       "type": 3,
-      "timeout": 15,
-      "api": "csp_App3Q",
-      "ext": "https://asd123sx23xdacsx.top",
-      "jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"
+      "api": "csp_FengYe",
+      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.vip1949.com/"
     },
        {
       "key": "csp_PianKu8",
       "name": "❤主05┃3840",
       "type": 3,
-      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c",
+      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
       "api": "csp_PianKu8"
     },
     {
@@ -231,7 +233,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/1CqpaRCV_1784884059047.jpg;md5;db2c1c3ef8d2d5d3481303f21f80593c",
+      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
       "ext": {
         "index_url": "https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json",
         "key_api": "https://www.tangsan.fun/zx.php"
