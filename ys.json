@@ -25,15 +25,16 @@
       }
     },
     
-       {
-      "key": "爱营",
+        {
+      "key": "PianKu8",
       "name": "❤主01┃3840",
       "type": 3,
+      "api": "csp_PianKu8",
+      "jar": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
       "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
-       "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q26.txt|0UKM8jkasM8tdzgW|V122|okhttp/3.10.0"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qkys.qukanwh.com"
     },
      {
       "key": "新首发",
@@ -64,16 +65,15 @@
         "decrypt": "1"
       }
     },
-  {
-      "key": "枫叶影视",
+     {
+      "key": "极影",
       "name": "❤主04┃3840",
       "type": 3,
-      "api": "csp_FengYe",
-      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/极影.js",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.vip1949.com/"
+      "filterable": 1,
+      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
     },
        {
       "key": "csp_PianKu8",
@@ -82,19 +82,16 @@
       "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
       "api": "csp_PianKu8"
     },
-    {
-      "key": "不戳",
+     {
+      "key": "枫叶影视",
       "name": "❤主06┃3840",
       "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
+      "api": "csp_FengYe",
+      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
       "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://appcmszbc.zbc4k.app",
-        "dataKey": "pYrEkiWRYhBLTUTC",
-        "dataIv": "pYrEkiWRYhBLTUTC"
-      }
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.vip1949.com/"
     },
       {
       "key": "华谊",
@@ -154,23 +151,11 @@
       }
     },
        {
-      "key": "csp_Guazi",
+      "key": "瓜子影视",
       "name": "❤主10┃3840",
       "type": 3,
-      "jar":"./vox.jar;md5;5cc8172c9b08185314358c20025291a8",
-      "api": "csp_Guazi",
-      "searchable": 1,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
       "changeable": 1
-    },
-     {
-      "key": "极影",
-      "name": "❤主11┃3840",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/极影.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
     },
      {
       "name": "🌀主01┃1920",
