@@ -138,7 +138,7 @@
       "name": "❤主09┃3840",
       "type": 3,
       "api": "csp_DuoDuo",
-      "searchable": 1,
+      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
