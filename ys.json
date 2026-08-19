@@ -74,22 +74,33 @@
         "decrypt": "1"
       }
     },
-     {
-      "key": "极影",
+      {
+      "key": "新腾极4k",
       "name": "❤主04┃3840",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/极影.js",
+      "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
+      "jar":"./xxxxxxx.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
-    },
-       {
-      "key": "csp_PianKu8",
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "http://8.148.229.212:802/4k踏天s2/lib/4k踏天TX.js"
+     },
+     {
+      "key": "爱影视",
       "name": "❤主05┃3840",
       "type": 3,
-      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
-      "api": "csp_PianKu8"
+      "api": "csp_WhaleApp",
+      "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "proxy": "https://www.tangsan.fun/jingyu.php",
+        "site": "aiyingshi",
+        "pic": "http://222.211.75.252:23433"
+      }
     },
        {
       "key": "枫叶影视",
@@ -142,13 +153,15 @@
         "decrypt": "0"
       }
     },
-        {
-      "key": "新首发",
+    {
+      "key": "极影",
       "name": "❤主09┃3840",
       "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/极影.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
     },
        {
       "key": "瓜子影视",
@@ -264,6 +277,14 @@
       "api": "csp_SaoHuo",
       "playerType": 2,
       "ext": "https://shdy5.us"
+    },
+     {
+      "key": "新首发",
+      "name": "🌀主11｜1920",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
       {
       "key": "电影港",
