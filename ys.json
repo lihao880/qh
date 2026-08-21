@@ -1,6 +1,6 @@
 {
   "notice": "公众号：机缘宝盒 ┃ 更新地址：link3.cc/jyqh",
-  "spider": "https://gitee.com/li-shengkai/qh/raw/master/OGkai.jar",
+  "spider": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
   "wallpaper": "https://tv.nxog.top/m//t/",
   "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
   "warningText": "本软件仅限内部使用 请勿公开传播 \n长期维护 切勿贩卖 \n定期重置APP获取新线路 \n更新地址：link3.cc/jyqh",
@@ -114,12 +114,20 @@
       "filterable": 1,
       "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
     },
-       {
-      "key": "瓜子影视",
+      {
+      "key": "剧圈99",
       "name": "❤主08┃3840",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
-      "changeable": 1
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
     },
     {
       "key": "橘汁",
