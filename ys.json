@@ -126,6 +126,7 @@
       "name": "❤主09┃3840",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
       "searchable": 1,
       "changeable": 1,
       "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
@@ -135,7 +136,7 @@
       "name": "❤主10┃3840",
       "type": 3,
       "api": "csp_zhiqiu",
-
+      "jar": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
       "searchable": 1,
       "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
     },
