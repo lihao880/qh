@@ -58,6 +58,7 @@
       "name": "❤主03┃3840",
       "type": 3,
       "api": "csp_AppDrama",
+      "jar": "./TG.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -119,6 +120,7 @@
       "name": "❤主07┃3840",
       "type": 3,
       "api": "csp_AppDrama",
+      "jar": "./TG.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -139,6 +141,7 @@
       "name": "❤主08┃3840",
       "type": 3,
       "api": "csp_AppDrama",
+      "jar": "./TG.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -167,6 +170,7 @@
        {
       "key": "瓜子影视",
       "name": "❤主10┃3840",
+      "jar": "./TG.jar",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
       "changeable": 1
@@ -188,6 +192,7 @@
       {
       "key": "金牌影视",
       "name": "🌀主02┃1920",
+      "jar": "./TG.jar",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
@@ -256,6 +261,7 @@
       "name": "🌀主09｜1920",
       "type": 3,
       "api": "csp_AppDrama",
+      "jar": "./TG.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
