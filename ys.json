@@ -301,6 +301,24 @@
     {
       "key": "夸快夸快",
       "name": "💿盘01┃3840",
+           "type": 3,
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/fabb11d153077bd3f42e017a99d88e9e.jpg;md5;445f75929716e42ffc40a31cec0f9fe0",
+      "ext": {
+        "site": [
+          "https://ogkk.nxog.eu.org",
+          "https://ogkk.nxog.fun",
+          "https://woog.歌.de5.net"
+        ]
+      }
+    },
+    {
+      "key": "玩偶",
+      "name": "💿盘02┃3840",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -309,11 +327,12 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://ogkk.nxog.eu.org",
-          "https://ogkk.nxog.fun",
-          "https://woog.歌.de5.net"
+          "https://woog.nxog.eu.org",
+          "https://woog.nxog.fun",
+          "https://ogkk.nxog.de5.net"
         ]
-      }
+      },
+      "timeout": 60
     }
   ],
   "parses": [
