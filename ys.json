@@ -6,7 +6,7 @@
   "warningText": "本软件仅限内部使用 请勿公开传播 \n长期维护 切勿贩卖 \n定期重置APP获取新线路 \n更新地址：link3.cc/jyqh",
   "sites": [
     {
-      "key": "豆瓣2",
+      "key": "豆瓣",
       "name": "公众号：机缘宝盒 内部使用 禁止贩卖 更新地址：link3.cc/jyqh",
        "type": 3,
       "api": "csp_Douban",
@@ -58,7 +58,6 @@
       "name": "❤主03┃3840",
       "type": 3,
       "api": "csp_AppDrama",
-      "jar": "./TG.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -88,20 +87,19 @@
       "changeable": 0,
       "ext": "http://8.148.229.212:802/4k踏天s2/lib/4k踏天TX.js"
      },
-      {
-      "key": "半日99",
+     {
+      "key": "爱影视",
       "name": "❤主05┃3840",
       "type": 3,
-      "api": "csp_App99",
+      "api": "csp_WhaleApp",
       "jar": "https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
-        "host": "http://103.217.190.91:19987/app/bn",
-        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
-        "versionName": "3.5.8",
-        "name": "半日闲",
-        "package": "com.yf.lelian",
-        "buildNumber": "2001",
-        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+        "proxy": "https://www.tangsan.fun/jingyu.php",
+        "site": "aiyingshi",
+        "pic": "http://222.211.75.252:23433"
       }
     },
        {
@@ -120,7 +118,6 @@
       "name": "❤主07┃3840",
       "type": 3,
       "api": "csp_AppDrama",
-      "jar": "./TG.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -141,7 +138,6 @@
       "name": "❤主08┃3840",
       "type": 3,
       "api": "csp_AppDrama",
-      "jar": "./TG.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -170,7 +166,6 @@
        {
       "key": "瓜子影视",
       "name": "❤主10┃3840",
-      "jar": "./TG.jar",
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py",
       "changeable": 1
@@ -192,7 +187,6 @@
       {
       "key": "金牌影视",
       "name": "🌀主02┃1920",
-      "jar": "./TG.jar",
       "type": 3,
       "api": "csp_Jpys",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
@@ -261,7 +255,6 @@
       "name": "🌀主09｜1920",
       "type": 3,
       "api": "csp_AppDrama",
-      "jar": "./TG.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -307,24 +300,6 @@
     {
       "key": "夸快夸快",
       "name": "💿盘01┃3840",
-           "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/fabb11d153077bd3f42e017a99d88e9e.jpg;md5;445f75929716e42ffc40a31cec0f9fe0",
-      "ext": {
-        "site": [
-          "https://ogkk.nxog.eu.org",
-          "https://ogkk.nxog.fun",
-          "https://woog.歌.de5.net"
-        ]
-      }
-    },
-    {
-      "key": "玩偶",
-      "name": "💿盘02┃3840",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -333,12 +308,11 @@
       "changeable": 1,
       "ext": {
         "site": [
-          "https://woog.nxog.eu.org",
-          "https://woog.nxog.fun",
-          "https://ogkk.nxog.de5.net"
+          "https://ogkk.nxog.eu.org",
+          "https://ogkk.nxog.fun",
+          "https://woog.歌.de5.net"
         ]
-      },
-      "timeout": 60
+      }
     }
   ],
   "parses": [
