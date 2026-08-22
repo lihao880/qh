@@ -15,6 +15,7 @@
       "name": "⚙️配置｜中心",
       "type": 3,
       "api": "csp_Config",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -332,6 +333,7 @@
       "name": "💿盘01┃3840",
       "type": 3,
       "api": "csp_PanWebShare",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -349,6 +351,7 @@
       "name": "💿盘02┃3840",
       "type": 3,
       "api": "csp_PanWebShare",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
