@@ -187,28 +187,9 @@
       "filterable": 1,
       "ext": ""
     }, 
-    {
-      "key": "枫眠",
-      "name": "❤主13┃3840",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
-    },
-      {
-      "key": "zhiqiu",
-      "name": "❤主14┃3840",
-      "type": 3,
-      "api": "csp_zhiqiu",
-      "jar": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
-      "searchable": 1,
-      "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
-    },
       {
       "key": "半日99",
-      "name": "❤主15┃3840",
+      "name": "❤主13┃3840",
       "type": 3,
       "api": "csp_App99",
       "jar":"https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f",
@@ -224,7 +205,7 @@
     },
       {
       "key": "新腾极4k",
-      "name": "❤主16┃3840",
+      "name": "❤主14┃3840",
       "type": 3,
       "api": "http://wang.qijiyun.vip/yun2k/drpy_libs/drpy2.min.js",
       "jar":"./xxxxxxx.jar;md5;412f8d175b032a824dc781b1fa8c46b0",
@@ -235,6 +216,26 @@
       "changeable": 0,
       "ext": "http://8.148.229.212:802/4k踏天s2/lib/4k踏天TX.js"
      }, 
+     {
+      "key": "zhiqiu",
+      "name": "❤主15┃3840",
+      "type": 3,
+      "api": "csp_zhiqiu",
+      "jar": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
+      "searchable": 1,
+      "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
+    },
+     {
+      "key": "枫眠",
+      "name": "❤主16┃3840",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://qiniu.gongxueyun.com/upload/1581765/2026-08-21/training_record/234044207_4_1787290437788.jar;md5;ba25eb6bad40a9352017438a47865a10",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
+    },
+      
        {
       "key": "YunZhenXiang",
       "name": "🌀主01┃1920",
