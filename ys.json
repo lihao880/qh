@@ -77,6 +77,22 @@
         "pic": "http://222.211.75.252:23433"
       }
     },
+          {
+      "key": "剧圈99",
+      "name": "❤主05┃3840",
+      "type": 3,
+      "api": "csp_App99",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
        {
       "key": "枫叶影视",
       "name": "❤主06┃3840",
