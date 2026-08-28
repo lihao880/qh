@@ -355,6 +355,7 @@
       "key": "csp_duanju",
       "name": "🔥精选短剧",
       "type": 3,
+      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7"
       "timeout": 12,
       "genre": "shortdrama",
       "api": "csp_HeMa"
