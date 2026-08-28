@@ -34,12 +34,15 @@
       "filterable": 1,
       "ext": ""
     },
-    {    
-      "key": "csp_PianKu8",
+    {
+      "key": "4K影视",
       "name": "❤主02┃3840",
       "type": 3,
+      "api": "csp_AppGet",
       "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7",
-      "api": "csp_PianKu8"
+      "quickSearch": 1,
+      "timeout": 12,
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
  {
       "key": "橘汁",
