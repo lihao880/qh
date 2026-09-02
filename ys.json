@@ -1,5 +1,5 @@
 {"wallpaper":"https://bing.img.run/rand.php",
-"spider":"./09021058.png;md5;c86f7dceed9cf4edc5d14189bd2ef123",
+"spider":"https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/kai.jar",
 "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
 "warningText": "本软件仅限内部使用 请勿公开传播 \n长期维护 切勿贩卖 \n定期重置APP获取新线路 \n更新地址：link3.cc/jyqh",
 "sites": [
@@ -15,6 +15,7 @@
       "name": "⚙️配置｜中心",
       "type": 3,
       "api": "csp_Config",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -23,31 +24,25 @@
       }
     },
     {
-      "key": "咕噜",
+      "key": "Yimi",
       "name": "❤主01┃3840",
       "type": 3,
       "api": "csp_Gulu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-       {
-      "key": "布布",
-      "name": "❤主02┃3840",
-      "type": 3,
-      "api": "csp_YunDuo",
-      "jar": "./09021058.png;md5;c86f7dceed9cf4edc5d14189bd2ef123",
+      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "host": "https://323433ssdfd.top",
-        "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
-        "aid": "com.web.player",
-        "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
-        "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
-        "sign": "ddtvf65f3a83d6d9ad6f"
-      }
+      "ext": ""
+    },
+    {
+      "key": "4K影视",
+      "name": "❤主02┃3840",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7",
+      "quickSearch": 1,
+      "timeout": 12,
+      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
     },
  {
       "key": "橘汁",
@@ -90,6 +85,7 @@
       "name": "❤主05┃3840",
       "type": 3,
       "api": "csp_App99",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0801/00/359c60089176c437e74e96d685b8a72e.jpg;md5;182f3ff054e1a255420840f83b553fe4",
       "ext": {
         "host": "http://124.221.3.182:19987/app/bn",
         "appkey": "d1f0c269eab74d93821fffc9befdbbba",
@@ -105,6 +101,7 @@
       "name": "❤主06┃3840",
       "type": 3,
       "api": "csp_FengYe",
+      "jar": "https://s3plus.meituan.net/opapisdk/op_ticket_1_5677168484_1786692332313_Ea3QGT2Q.zip;md5;2698d595a4b0a782e4f3e1242e5e6511",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -125,6 +122,7 @@
       "name": "❤主08┃3840",
       "type": 3,
       "api": "csp_App99",
+      "jar":"https://nos.netease.com/ysf/8cb2db6ed5698cb01c3bff4e8b24c8ef.txt;md5;6ad7dc48e3d7b4b28bfede1a6cca7a6f",
       "ext": {
         "host": "http://103.217.190.91:19987/app/bn",
         "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
@@ -155,6 +153,7 @@
       "name": "❤主11┃3840",
       "type": 3,
       "api": "csp_Yidong4K",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -221,32 +220,6 @@
         "updateId": "01a00b72-a18d-77ac-9921-9dbe96573441",
         "deviceBrand": "vivo",
         "deviceModel": "V2309A"
-      }
-    },
-     {
-      "key": "4K影视",
-      "name": "❤主17┃3840",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7",
-      "quickSearch": 1,
-      "timeout": 12,
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
-    },
-    {
-      "key": "马猴影视",
-      "name": "❤主18┃3840",
-      "type": 3,
-      "api": "csp_App3Q",
-      "ext": {
-        "host": "https://45.150.167.18:8000",
-        "finger": "SF-A962FEC75DA28D7514F2A16580334272A78AC0A8429F10C94F47C1BAFC876E3F",
-        "updateId": "43c1ef69-3748-aaeb-317f-c621c77653ee",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.damahou.tv",
-        "sk": "SK-woniu-thanks",
-        "ver": "1"
       }
     },
       
@@ -384,39 +357,47 @@
       "genre": "shortdrama",
       "api": "csp_HeMa"
     },
-     {
-      "key": "多多",
+ {
+     "key":"hongguo",
+      "name":"红果短剧PY",
+      "type":7,
+   "api":"py",                                                     "py":"https://raw.giteeusercontent.com/li-shengkai/ys/raw/master/%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%F0%9F%8D%80TG_fixed.py",
+                                                                                                    "searchable":1,
+                                                                                                                "filterable":0
+                        },
+    {
+      "key": "夸快夸快",
       "name": "💿盘01┃3840",
       "type": 3,
       "api": "csp_PanWebShare",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": {
         "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
+          "https://ogkk.nxog.eu.org",
+          "https://ogkk.nxog.fun",
+          "https://woog.歌.de5.net"
         ]
-      },
-      "timeout": 60
+      }
     },
     {
       "key": "玩偶",
       "name": "💿盘02┃3840",
-       "type": 3,
-      "api": "csp_Wogg",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": {
         "site": [
-          "https://www.wogg.live",
-          "https://woggpan.888484.xyz",
-          "https://wogg.xxooo.cf",
-          "https://woggpan.xxooo.cf"
+          "https://woog.nxog.eu.org",
+          "https://woog.nxog.fun",
+          "https://ogkk.nxog.de5.net"
         ]
       },
       "timeout": 60
