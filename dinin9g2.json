@@ -1,0 +1,127 @@
+
+
+//温馨提醒您！该接口来源于网络并加token验证随时更换，仅用于学习使用！请在体验后24小时内删除！
+
+//有侵权联系3312992213@qq.com删除，玩偶木偶网盘等分享公开数据来源https://www.muou.site、https://www.wogg.net……
+
+//应用出处https://github.com/CatVodTVOfficial/TVBoxOSC，https://github.com/q215613905/TVBoxOS
+
+
+{
+  "spider": "assets://q661.jar",
+  "sites": [
+    {
+      "key": "wanou_sites",
+      "name": "主线路-换源更换备用线路",
+      "type": 4,
+      "api": "http://103.236.77.248:36245/video/wanou_sites",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "header": {
+        "token": "991617afcd54ae3c"
+      }
+    },
+    
+    {
+      "key": "wanou_sites1",
+      "name": "备用线路",
+      "type": 4,
+      "api": "http://103.236.77.248:36245/video/wanou_sites",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "header": {
+        "token": "991617afcd54ae3c"
+      }
+    },
+
+        {
+      "key": "腾爱优B站测试",
+      "name": "腾爱优B站",
+      "type": 3,
+      "api": "http://106.55.39.91:5033/direc-t2k/1/xd26/腾爱优b站.js",
+      "changeable": 0
+    }, 
+
+      
+      {
+      "key": "mogg",
+      "name": "主线木偶仅搜索",
+      "type": 4,
+      "api": "http://43.248.128.118:12512/video/mogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "header": {
+        "token": "4bb4ebc16052c267"
+      }
+    },
+     
+     {
+      "key": "mogg1",
+      "name": "备用木偶仅搜索",
+      "type": 4,
+      "api": "http://103.236.77.205:34216/video/mogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "header": {
+        "token": "991617afcd54ae3c"
+      }
+    },
+     
+     
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 4,
+      "api": "http://103.236.77.248:34516/video/push_agent",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "header": {
+        "token": "991617afcd54ae3c"
+      }
+    }
+  ],
+  "lives": [
+    {
+      "name": "这个只对安卓壳有效",
+      "url": "q",
+      "playerType": 2
+    }
+  ],
+
+   "parses": [
+        {
+            "name": "Json聚合",
+            "type": 3,
+            "url": "Demo"
+        },
+        {
+            "name": "Web聚合",
+            "type": 3,
+            "url": "Web"
+        },
+ 
+                {
+            "name": "测试",
+            "type": 1,
+            "url": "http://xiaobaibai.feng1210.top/api.php?key=spjk666&url="
+        }
+   
+        
+    ],
+    
+  "headers": [
+    
+  ],
+  "wdApi": {
+    "hot": "",
+    "suggest": ""
+  },
+  "wallpaper": "知足常乐盒子",
+  "logo": ""
+}
