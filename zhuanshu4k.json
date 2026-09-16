@@ -39,12 +39,12 @@
       "key": "mogg",
       "name": "主线仅搜索",
       "type": 4,
-      "api": "http://43.248.128.118:12512/video/mogg",
+      "api": "http://103.236.77.248:36245/video/mogg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "header": {
-        "token": "4bb4ebc16052c267"
+        "token": "991617afcd54ae3c"
       }
     },
      
