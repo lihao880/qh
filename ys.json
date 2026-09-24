@@ -109,13 +109,14 @@
         "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"
       }
     },
-      {
-      "key": "个影",
+    {
+      "key": "潮流",
       "name": "🌀主04｜1920",
       "type": 3,
-      "api": "./lib/gy.js"
+      "api": "csp_AppRJ",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
+      "ext": "http://v.rbotv.cn"
     },
-   
       
       {
       "key": "大师兄",
@@ -133,34 +134,9 @@
       "api": "./lib/金牌影院.js",
       "changeable": 1
     },
-    
-       {
-      "key": "KUlao永乐JS",
-      "name": "🌀主07｜1920",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
-     {
-      "key": "热播影视",
-      "name": "🌀主08｜1920",
-      "type": 3,
-      "jar": "./lib/yy92.jar",
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": {
-        "url": "http://v.rbotv.cn"
-      }
-    },   
     {
       "key": "火影视",
-      "name": "🌀主09｜1920",
+      "name": "🌀主07｜1920",
       "type": 3,
       "api": "csp_SaoHuo",
       "playerType": 2,
@@ -168,7 +144,7 @@
     },
     {
       "key": "华谊",
-      "name": "🌀主10｜1920",
+      "name": "🌀主08｜1920",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
@@ -188,7 +164,7 @@
     },
      {
       "key": "薯条",
-      "name": "🌀主11｜1920",
+      "name": "🌀主09｜1920",
       "type": 3,
       "api": "csp_AppDrama",
       "searchable": 1,
