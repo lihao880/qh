@@ -22,9 +22,25 @@
         "ratio": 1.597
       }
     },
+     {
+      "key": "蔬菜",
+      "name": "❤主01┃3840",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
+      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
+    },
+    {
+      "key": "干饭",
+      "name": "❤主02┃3840",
+      "type": 3,
+      "api": "csp_AppGet",
+      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
+      "ext": "https://www.douy32mf.top|1234567887654321"
+    },
     {
       "key": "咕噜咕噜4K_修复版_可搜索_带直播",
-      "name": "❤主01┃3840",
+      "name": "❤主03┃3840",
       "type": 3,
       "api": "./lib/咕噜咕噜4K_修复版_可搜索_带直播.py",
       "searchable": 1,
@@ -33,27 +49,10 @@
     },
      {
       "key": "Yidong4K",
-      "name": "❤主02┃3840",
+      "name": "❤主04┃3840",
       "type": 3,
       "jar": "./custom.jar",
       "api": "csp_Yidong4K"
-    },
-     {
-      "key": "干饭",
-      "name": "❤主03┃3840",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
-      "ext": "https://www.douy32mf.top|1234567887654321"
-    },
-     
-      {
-      "key": "蔬菜",
-      "name": "❤主04┃3840",
-      "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
-      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
     },
        {
       "key": "枫叶影视",
@@ -219,14 +218,14 @@
       "filterable": 1,
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XYQHiker/电影港.json"
     },
-     {
-      "key": "csp_duanju",
+      {
+      "key": "聚合短剧",
       "name": "🔥精选短剧",
       "type": 3,
-      "jar": "https://zkaicc.huilan.com/aicc/api/aicc-file/miniofile/preViewPicture/aicc/LXzueNsP_1787888142243.png;md5;37cd379fa9cd2d4d8d9cdc0fc8ae86a7",
-      "timeout": 12,
-      "genre": "shortdrama",
-      "api": "csp_HeMa"
+      "api": "./lib/聚合短剧.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
     },
     {
       "key": "夸快夸快",
