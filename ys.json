@@ -121,6 +121,15 @@
       "api": "csp_Gz360"
     },
     {
+     "key": "py_剧源",
+     "name": "❤主09┃3840",
+     "type": 3,
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "timeout": 60
+    },
+    {
       "key": "热播影视",
       "name": "🌀主01┃1920",
       "type": 3,
