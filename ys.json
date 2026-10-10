@@ -42,15 +42,6 @@
       "ext": "AppV7Mtq"
     },
      {
-      "key": "咕噜",
-      "name": "❤主01┃3840",
-      "type": 3,
-      "api": "csp_Gulu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-     {
       "key": "蔬菜",
       "name": "❤主02┃3840",
       "type": 3,
@@ -90,16 +81,6 @@
       "changeable": 1,
       "ext": "Guazi"
     },
-    {
-     "key": "py_影探4K",
-     "name": "❤主06┃3840",
-     "type": 3,
-     "api": "https://mpimg.cn/down.php/08b1f63e45e22cdbb2661ebd51fc2775.py",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "timeout": 60
-     },
      {
       "name": "🌀主01┃1920",
       "key": "AppV7Xhr",
