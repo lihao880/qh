@@ -1,5 +1,5 @@
 {
-  "spider": "./jybh.jar",
+  "spider": "./46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -7,28 +7,17 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "最近两天将更新新版本 关注机缘宝盒微信公众号 第一时间获取",
+      "name": "公众号：机缘宝盒 \n买3A盒子找凯弟 \n加微信：kai9664826 ",
       "type": 3,
-      "api": "csp_DoubanAmns",
-      "jar": "./js/mmm.png",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "ext": "Douban"
+      "api": "csp_Douban",
+      "searchable": 0
     },
     {
-      "key": "配置中心",
+      "key": "config",
       "name": "⚙配置┃中心",
       "type": 3,
       "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
+      "playerType": 2
     },
     {
       "name": "❤主01┃3840",
@@ -81,6 +70,30 @@
       "changeable": 1,
       "ext": "Guazi"
     },
+    {
+      "key": "山木",
+      "name": "❤主06┃3840",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/p6rZcj/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.py"
+    },
+    {
+      "key": "橘汁",
+      "name": "❤主07┃3840",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"
+    },
+     {
+      "key": "剧下饭",
+      "name": "❤主09┃3840",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"
+    },
+     {
+      "key": "4k-av",
+      "name": "❤主10┃3840",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/0c67ff200a5ff8b2a2e95a14d3b80563.py"
+    },
      {
       "name": "🌀主01┃1920",
       "key": "AppV7Xhr",
@@ -125,6 +138,23 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
     {
+      "key": "青麦",
+      "name": "🌀主05┃1920",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"
+    },
+    {
+      "key": "布布",
+      "name": "🌀主06┃1920",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
       "key": "电影港",
       "name": "🧲磁力01",
       "type": 3,
@@ -133,16 +163,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XYQHiker/电影港.json"
-    },
-    {
-      "key": "New6v",
-      "name": "🧲磁力02",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
     },
      {
       "key": "P123",
