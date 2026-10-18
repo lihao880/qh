@@ -30,14 +30,17 @@
       "changeable": 1,
       "ext": "AppV7Mtq"
     },
-     {
-      "key": "蔬菜",
+    {
       "name": "❤主02┃3840",
+      "key": "AppV7Fz",
       "type": 3,
-      "api": "csp_AppGet",
-      "jar": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png",
-      "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725"
-    },
+      "api": "csp_AppV7Amns",
+      "jar": "./js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Fz"
+    }, 
  {
       "name": "❤主03┃3840",
       "key": "Woshinidie",
@@ -48,17 +51,7 @@
       "quickSearch": 1,
       "changeable": 1
     },  
-    {
-      "key": "移动",
-      "name": "❤主04┃3840",
-      "type": 3,
-      "api": "csp_Yidong4K",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
+    
      {
       "key": "Guazi",
       "name": "❤主05┃3840",
@@ -70,17 +63,33 @@
       "changeable": 1,
       "ext": "Guazi"
     },
-    {
-      "key": "山木",
+     {
       "name": "❤主06┃3840",
+      "key": "AppV7Xy",
       "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/p6rZcj/%E5%B1%B1%E6%9C%89%E6%9C%A8%E5%85%AE.py"
+      "api": "csp_AppV7Amns",
+      "jar": "./js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xy"
     },
     {
       "key": "橘汁",
       "name": "❤主07┃3840",
       "type": 3,
       "api": "https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"
+    },
+    {
+      "key": "移动",
+      "name": "❤主08┃3840",
+      "type": 3,
+      "api": "csp_Yidong4K",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
     },
      {
       "key": "剧下饭",
@@ -92,19 +101,19 @@
       "key": "4k-av",
       "name": "❤主10┃3840",
       "type": 3,
-      "api": "https://pan.szfx.top/down.php/0c67ff200a5ff8b2a2e95a14d3b80563.py"
+      "api": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/bh.py"
     },
      {
       "name": "🌀主01┃1920",
-      "key": "AppV7Xhr",
+      "key": "AppV7Llq",
       "type": 3,
       "api": "csp_AppV7Amns",
-      "jar": "./js/aw.png",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "AppV7Xhr"
+      "ext": "AppV7Llq"
     },
+     
    {
       "name": "🌀主02┃1920",
       "key": "AppV7Xyz",
@@ -128,20 +137,27 @@
       "ext": "AppV7Xnm"
     },
     
-    {
-      "key": "柠檬",
+     {
       "name": "🌀主04┃1920",
+      "key": "AppV7Xsz",
       "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+      "api": "csp_AppV7Amns",
+      "jar": "./js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xsz"
     },
     {
-      "key": "青麦",
       "name": "🌀主05┃1920",
+      "key": "AppV7Xhr",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"
+      "api": "csp_AppV7Amns",
+      "jar": "./js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xhr"
     },
     {
       "key": "布布",
@@ -153,6 +169,17 @@
         "ratio": 1.33
       },
       "changeable": 1
+    },
+    {
+      "name": "🌀主07┃1920",
+      "key": "AppV7Zjdr",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "./js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Zjdr"
     },
     {
       "key": "电影港",
