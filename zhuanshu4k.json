@@ -1,13 +1,9 @@
-
-
-//温馨提醒您！该接口来源于网络并加token验证随时更换，仅用于学习使用！请在体验后24小时内删除！
-
-//有侵权联系357727140@qq.com删除，玩偶木偶网盘等分享公开数据来源https://www.muou.site、https://www.wogg.net……
-
-//应用出处https://github.com/CatVodTVOfficial/TVBoxOSC，https://github.com/q215613905/TVBoxOS
-
-
 {
+  "spider": "./46da6-aa33493f-1c1d-4f35-9990-0be4bdbf0c64.png;md5;46da6b6a6a111d7924717db2ae790de3",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+  "logo": "https://mpimg.cn/view.php/d9acac87d4d26ce6f54dd3f1bcbb9fe2.png",
+  "danmaku": "https://paejay.asia/87654321/danmaku",
+  "warningText": "本软件仅限内部使用 请勿公开传播 \n长期维护 切勿贩卖 \n定期重置APP获取新线路 \n更新地址：link3.cc/jyqh",
   "sites": [
  {
       "key": "fgd",
@@ -40,7 +36,7 @@
       "type": 3,
       "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
       "ext": "https://app.69mini.com/js/wasu.js"
-    }
+    },
     {
       "key": "盘7",
       "name": "免·4K网盘",
@@ -53,42 +49,22 @@
       "ext": ""
     }
   ],
+  "parses": [
+    {
+      "name": "解析聚合",
+      "type": 1,
+      "url": "http://niubi.69mini.com/api/?key=431a04a7ba75479aeffd826ec41afff7&url="
+    }
+    ],
   "lives": [
     {
-      "name": "这个只对安卓壳有效",
-      "url": "q",
-      "playerType": 2
+      "name": "机缘宝盒",
+      "type": 0,
+      "url": "http://38.75.136.137:88/api/tvlist.php",
+      "ua": "okhttp/3.15,AptvPlayer/1.4.0",
+      "timeout": 5,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://11.112114.xyz/logo/{name}.png"
     }
-  ],
-
-   "parses": [
-        {
-            "name": "Json聚合",
-            "type": 3,
-            "url": "Demo"
-        },
-        {
-            "name": "Web聚合",
-            "type": 3,
-            "url": "Web"
-        },
- 
-                {
-            "name": "测试",
-            "type": 1,
-            "url": "http://niubi.69mini.com/api/?key=431a04a7ba75479aeffd826ec41afff7&url="
-        }
-   
-        
-    ],
-    
-  "headers": [
-    
-  ],
-  "wdApi": {
-    "hot": "",
-    "suggest": ""
-  },
-  "wallpaper": "机缘宝盒4K机顶盒",
-  "logo": ""
+  ]
 }
