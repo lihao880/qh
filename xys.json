@@ -247,8 +247,178 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1
+    },
+ {
+      "key": "fgd",
+      "name": "主·聚合4K①--包含腾芒哔自己修改下线路名字",
+      "playerType": "2",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/jh.js"
+    },
+    {
+      "key": "NS",
+      "name": "主·补充4K②--NS线路",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://qp.69mini.com/api.php/app/"
+    },
+    {
+      "key": "切片4K",
+      "name": "主·补充4K③--补充缺少的优爱4K-自己改下线路名字",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://110.42.54.227:701/api.php/app/"
+    },
+    {
+      "key": "271",
+      "name": "🚀奇艺",
+      "playerType": "1",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/271.js"
+    },
+    {
+      "key": "yk",
+      "name": "主·Yk2K",
+      "playerType": "1",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/youku.js"
+    },
+    {
+      "key": "NB-Y",
+      "name": "NB-Y切片",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://110.42.54.227:8643/api.php/app/"
+    },
+    {
+      "key": "华数",
+      "name": "华数线路",
+      "playerType": "1",
+      "type": 3,
+      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
+      "ext": "https://app.69mini.com/js/wasu.js"
+    },
+    {
+      "key": "GZ",
+      "name": "主·瓜子",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://gz.69mzf.cn/api.php/app/"
+    },
+    {
+      "key": "厂长",
+      "name": "备·厂长",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cz.69mzf.cn/api.php/app/"
+    },
+    {
+      "key": "N3",
+      "name": "备·西瓜",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://lz.69mzf.cn/api.php/app/"
+    },
+    {
+      "key": "TT",
+      "name": "备·天堂",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://tt.69mini.com/api.php/app/"
+    },
+    {
+      "key": "jp",
+      "name": "备·金牌",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://jp.69mzf.cn/api.php/app/"
+    },
+    {
+      "key": "360",
+      "name": "备·360",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qpcj.69mini.com/api.php/app/"
+    },
+    {
+      "key": "无广告",
+      "name": "备·NB",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "https://app.69mini.com/tvbox/nb.jpg",
+      "playerType": "2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ld.69mzf.cn/api.php/app/"
+    },
+    {
+      "key": "盘7",
+      "name": "免·4K网盘3",
+      "type": 4,
+      "playerType": 2,
+      "api": "http://116.62.133.86:56688/%E9%87%87%E9%9B%86/cai.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
     }
   ],
+  "parses": [
+    {
+      "name": "解析聚合",
+      "type": 1,
+      "url": "http://niubi.69mini.com/api/?key=431a04a7ba75479aeffd826ec41afff7&url="
+    }
+    ],
   "lives": [
     {
       "name": "机缘宝盒",
