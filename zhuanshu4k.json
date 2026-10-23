@@ -7,46 +7,66 @@
   "sites": [
  {
       "key": "fgd",
-      "name": "主·聚合4K",
+      "name": "机缘宝盒·聚合4K",
       "playerType": "2",
       "type": 3,
       "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
       "ext": "https://raw.giteeusercontent.com/li-shengkai/qh/raw/master/js/jh_decoded.js"
     },
     {
-      "key": "271",
-      "name": "🚀奇艺",
-      "playerType": "1",
+      "name": "❤主01┃3840",
+      "key": "AppV7Mtq",
       "type": 3,
-      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://app.69mini.com/js/271.js"
-    },
-    {
-      "key": "yk",
-      "name": "主·Yk2K",
-      "playerType": "1",
-      "type": 3,
-      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://app.69mini.com/js/youku.js"
-    },
-    {
-      "key": "华数",
-      "name": "华数线路",
-      "playerType": "1",
-      "type": 3,
-      "api": "https://aaa.69mini.com/store/drpy_libs/drpy2.min.js",
-      "ext": "https://app.69mini.com/js/wasu.js"
-    },
-    {
-      "key": "盘7",
-      "name": "免·4K网盘",
-      "type": 4,
-      "playerType": 2,
-      "api": "http://116.62.133.86:56688/%E9%87%87%E9%9B%86/cai.php",
+      "api": "csp_AppV7Amns",
+      "jar": "./js/aw.png",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
+      "changeable": 1,
+      "ext": "AppV7Mtq"
+    },
+    {
+      "name": "❤主02┃3840",
+      "key": "Woshinidie",
+      "type": 3,
+      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
+      "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },  
+    {
+      "key": "橘汁",
+      "name": "❤主03┃3840",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"
+    },
+    {
+      "name": "❤主04┃3840",
+      "key": "AppV7Fz",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "jar": "./js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Fz"
+    }, 
+    {
+      "key": "Guazi",
+      "name": "❤主05┃3840",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "jar": "./js/aw.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "Guazi"
+    },
+    {
+      "key": "剧下饭",
+      "name": "❤主06┃3840",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"
     }
   ],
   "parses": [
